@@ -1,0 +1,970 @@
+Biology is the scientific study of life.
+[1][2][3]It is a natural science with a broad scope but has several unifying themes that tie it together as a single, coherent field.
+[1][2][3]For instance, all organisms are made up of cells that process hereditary information encoded in genes, which can be transmitted to future generations. 
+Another major theme is evolution, which explains the unity and diversity of life.
+[1][2][3]Energy processing is also important to life as it allows organisms to move, grow, and reproduce.
+[1][2][3]Finally, all organisms are able to regulate their own internal environments.
+Biologists are able to study life at multiple levels of organization,[1] from the molecular biology of a cell to the anatomy and physiology of plants and animals, and evolution of populations.
+[1][6]Hence, there are multiple subdisciplines within biology, each defined by the nature of their research questions and the tools that they use.
+[7][8][9]Like other scientists, biologists use the scientific method to make observations, pose questions, generate hypotheses, perform experiments, and form conclusions about the world around them.
+Life on Earth, which emerged more than 3.
+7billion years ago,[10] is immensely diverse. 
+Biologists have sought to study and classify the various forms of life, from prokaryotic organisms such as archaea and bacteria to eukaryotic organisms such as protists, fungi, plants, and animals. 
+These various organisms contribute to the biodiversity of an ecosystem, where they play specialized roles in the cycling of nutrients and energy through their biophysical environment. 
+The earliest of roots of science, which included medicine, can be traced to ancient Egypt and Mesopotamia in around 3000 to 1200 BCE.
+[11][12]Their contributions later entered and shaped Greek natural philosophy of classical antiquity.
+[11][12][13][14]Ancient Greek philosophers such as Aristotle (384–322 BCE) contributed extensively to the development of biological knowledge. 
+His works such as History of Animals were especially important because they revealed his naturalist leanings, and later more empirical works that focused on biological causation and the diversity of life. 
+Aristotle's successor at the Lyceum, Theophrastus, wrote a series of books on botany that survived as the most important contribution of antiquity to the plant sciences, even into the Middle Ages.
+Scholars of the medieval Islamic world who wrote on biology included al-Jahiz (781–869), Al-Dīnawarī (828–896), who wrote on botany,[16] and Rhazes (865–925) who wrote on anatomy and physiology. 
+Medicine was especially well studied by Islamic scholars working in Greek philosopher traditions, while natural history drew heavily on Aristotelian thought, especially in upholding a fixed hierarchy of life. 
+Biology began to quickly develop and grow with Anton van Leeuwenhoek's dramatic improvement of the microscope. 
+It was then that scholars discovered spermatozoa, bacteria, infusoria and the diversity of microscopic life. 
+Investigations by Jan Swammerdam led to new interest in entomology and helped to develop the basic techniques of microscopic dissection and staining.
+Advances in microscopy also had a profound impact on biological thinking. 
+In the early 19th century, a number of biologists pointed to the central importance of the cell. 
+Then, in 1838, Schleiden and Schwann began promoting the now universal ideas that (1) the basic unit of organisms is the cell and (2) that individual cells have all the characteristics of life, although they opposed the idea that (3) all cells come from the division of other cells. 
+However, Robert Remak and Rudolf Virchow were able to reify the third tenet, and by the 1860s most biologists accepted all three tenets which consolidated into cell theory.
+Meanwhile, taxonomy and classification became the focus of natural historians. 
+Carl Linnaeus published a basic taxonomy for the natural world in 1735 (variations of which have been in use ever since), and in the 1750s introduced scientific names for all his species.
+[20]Georges-Louis Leclerc, Comte de Buffon, treated species as artificial categories and living forms as malleable—even suggesting the possibility of common descent. 
+Although he was opposed to evolution, Buffon is a key figure in the history of evolutionary thought; his work influenced the evolutionary theories of both Lamarck and Darwin.
+Serious evolutionary thinking originated with the works of Jean-Baptiste Lamarck, who was the first to present a coherent theory of evolution.
+[23]He posited that evolution was the result of environmental stress on properties of animals, meaning that the more frequently and rigorously an organ was used, the more complex and efficient it would become, thus adapting the animal to its environment. 
+Lamarck believed that these acquired traits could then be passed on to the animal's offspring, who would further develop and perfect them.
+[24]However, it was the British naturalist Charles Darwin, combining the biogeographical approach of Humboldt, the uniformitarian geology of Lyell, Malthus's writings on population growth, and his own morphological expertise and extensive natural observations, who forged a more successful evolutionary theory based on natural selection; similar reasoning and evidence led Alfred Russel Wallace to independently reach the same conclusions.
+[25][26]Darwin's theory of evolution by natural selection quickly spread through the scientific community and soon became a central axiom of the rapidly developing science of biology. 
+The basis for modern genetics began with the work of Gregor Mendel, who presented his paper, "Versuche über Pflanzenhybriden" ("Experiments on Plant Hybridization"), in 1865,[27] which outlined the principles of biological inheritance, serving as the basis for modern genetics.
+[28]However, the significance of his work was not realized until the early 20th century when evolution became a unified theory as the modern synthesis reconciled Darwinian evolution with classical genetics.
+[29]In the 1940s and early 1950s, a series of experiments by Alfred Hershey and Martha Chase pointed to DNA as the component of chromosomes that held the trait-carrying units that had become known as genes. 
+A focus on new kinds of model organisms such as viruses and bacteria, along with the discovery of the double-helical structure of DNA by James Watson and Francis Crick in 1953, marked the transition to the era of molecular genetics. 
+From the 1950s onwards, biology has been vastly extended in the molecular domain. 
+The genetic code was cracked by Har Gobind Khorana, Robert W. 
+Holley and Marshall Warren Nirenberg after DNA was understood to contain codons. 
+Finally, the Human Genome Project was launched in 1990 with the goal of mapping the general human genome. 
+This project was essentially completed in 2003,[30] with further analysis still being published. 
+The Human Genome Project was the first step in a globalized effort to incorporate accumulated knowledge of biology into a functional, molecular definition of the human body and the bodies of other organisms. 
+All organisms are made up of chemical elements;[31] oxygen, carbon, hydrogen, and nitrogen account for 96%[further explanation needed] of all organisms, with calcium, phosphorus, sulfur, sodium, chlorine, and magnesium constituting essentially all the remainder. 
+Different elements can combine to form compounds such as water, which is fundamental to life.
+[31]Biochemistry is the study of chemical processes within and relating to living organisms. 
+Molecular biology is the branch of biology that seeks to understand the molecular basis of biological activity in and between cells, including molecular synthesis, modification, mechanisms, and interactions. 
+Life arose from the Earth's first ocean, which was formed approximately 3.
+8billion years ago.
+[32]Since then, water continues to be the most abundant molecule in every organism. 
+Water is important to life because it is an effective solvent, capable of dissolving solutes such as sodium and chloride ions or other small molecules to form an aqueous solution. 
+Once dissolved in water, these solutes are more likely to come in contact with one another and therefore take part in chemical reactions that sustain life.
+In terms of its molecular structure, water is a small polar molecule with a bent shape formed by the polar covalent bonds of two hydrogen (H) atoms to one oxygen (O) atom (H2O).
+[32]Because the O–H bonds are polar, the oxygen atom has a slight negative charge and the two hydrogen atoms have a slight positive charge.
+[32]This polar property of water allows it to attract other water molecules via hydrogen bonds, which makes water cohesive.
+[32]Surface tension results from the cohesive force due to the attraction between molecules at the surface of the liquid.
+[32]Water is also adhesive as it is able to adhere to the surface of any polar or charged non-water molecules.
+Water is denser as a liquid than it is as a solid (or ice).
+[32]This unique property of water allows ice to float above liquid water such as ponds, lakes, and oceans, thereby insulating the liquid below from the cold air above.
+[32]The lower density of ice compared to liquid water is due to the lower number of water molecules that form the crystal lattice structure of ice, which leaves a large amount of space between water molecules.
+[32]In contrast, there is no crystal lattice structure in liquid water, which allows more water molecules to occupy the same amount of volume.
+Water also has the capacity to absorb energy, giving it a higher specific heat capacity than other solvents such as ethanol.
+[32]Thus, a large amount of energy is needed to break the hydrogen bonds between water molecules to convert liquid water into water vapor.
+As a molecule, water is not completely stable as each water molecule continuously dissociates into hydrogen and hydroxyl ions before reforming into a water molecule again.
+[32]In pure water, the number of hydrogen ions balances (or equals) the number of hydroxyl ions, resulting in a pH that is neutral. 
+Organic compounds are molecules that contain carbon bonded to another element such as hydrogen.
+[32]With the exception of water, nearly all the molecules that make up each organism contain carbon.
+[32][33]Carbon can form covalent bonds with up to four other atoms, enabling it to form diverse, large, and complex molecules.
+[32][33]For example, a single carbon atom can form four single covalent bonds such as in methane, two double covalent bonds such as in carbon dioxide (CO2), or a triple covalent bond such as in carbon monoxide (CO). 
+Moreover, carbon can form very long chains of interconnecting carbon–carbon bonds such as octane or ring-like structures such as glucose. 
+The simplest form of an organic molecule is the hydrocarbon, which is a large family of organic compounds that are composed of hydrogen atoms bonded to a chain of carbon atoms. 
+A hydrocarbon backbone can be substituted by other elements such as oxygen (O), hydrogen (H), phosphorus (P), and sulfur (S), which can change the chemical behavior of that compound.
+[32]Groups of atoms that contain these elements (O-, H-, P-, and S-) and are bonded to a central carbon atom or skeleton are called functional groups.
+[32]There are six prominent functional groups that can be found in organisms: amino group, carboxyl group, carbonyl group, hydroxyl group, phosphate group, and sulfhydryl group.
+In 1953, the Miller-Urey experiment showed that organic compounds could be synthesized abiotically within a closed system mimicking the conditions of early Earth, thus suggesting that complex organic molecules could have arisen spontaneously in early Earth (see abiogenesis).
+Macromolecules are large molecules made up of smaller molecular subunits that are joined.
+[35]Small molecules such as sugars, amino acids, and nucleotides can act as single repeating units called monomers to form chain-like molecules called polymers via a chemical process called condensation.
+[36]For example, amino acids can form polypeptides whereas nucleotides can form strands of nucleic acid. 
+Polymers make up three of the four macromolecules (polysaccharides, lipids, proteins, and nucleic acids) that are found in all organisms. 
+Each of these macromolecules plays a specialized role within any given cell. 
+Carbohydrates (or sugar) are molecules with the molecular formula (CH2O)n, with n being the number of carbon-hydrate groups.
+[37]They include monosaccharides (monomer), oligosaccharides (small polymers), and polysaccharides (large polymers). 
+Monosaccharides can be linked together by glycosidic linkages, a type of covalent bond.
+[37]When two monosaccharides such as glucose and fructose are linked together, they can form a disaccharide such as sucrose.
+[37]When many monosaccharides are linked together, they can form an oligosaccharide or a polysaccharide, depending on the number of monosaccharides. 
+Polysaccharides can vary in function. 
+Monosaccharides such as glucose can be a source of energy and some polysaccharides can serve as storage material that can be hydrolyzed to provide cells with sugar. 
+Lipids are the only class of macromolecules that are not made up of polymers. 
+The most biologically important lipids are steroids, phospholipids, and fats.
+[36]These lipids are organic compounds that are largely nonpolar and hydrophobic.
+[38]Steroids are organic compounds that consist of four fused rings.
+[38]Phospholipids consist of glycerol that is linked to a phosphate group and two hydrocarbon chains (or fatty acids).
+[38]The glycerol and phosphate group together constitute the polar and hydrophilic (or head) region of the molecule whereas the fatty acids make up the nonpolar and hydrophobic (or tail) region.
+[38]Thus, when in water, phospholipids tend to form a phospholipid bilayer whereby the hydrophobic heads face outwards to interact with water molecules. 
+Conversely, the hydrophobic tails face inwards towards other hydrophobic tails to avoid contact with water.
+Proteins are the most diverse of the macromolecules, which include enzymes, transport proteins, large signaling molecules, antibodies, and structural proteins. 
+The basic unit (or monomer) of a protein is an amino acid, which has a central carbon atom that is covalently bonded to a hydrogen atom, an amino group, a carboxyl group, and a side chain (or R-group, "R" for residue).
+[35]There are twenty amino acids that make up the building blocks of proteins, with each amino acid having its own unique side chain.
+[35]The polarity and charge of the side chains affect the solubility of amino acids. 
+An amino acid with a side chain that is polar and electrically charged is soluble as it is hydrophilic whereas an amino acid with a side chain that lacks a charged or an electronegative atom is hydrophobic and therefore tends to coalesce rather than dissolve in water.
+[35]Proteins have four distinct levels of organization (primary, secondary, tertiary, and quartenary). 
+The primary structure consists of a unique sequence of amino acids that are covalently linked together by peptide bonds.
+[35]The side chains of the individual amino acids can then interact with each other, giving rise to the secondary structure of a protein.
+[35]The two common types of secondary structures are alpha helices and beta sheets.
+[35]The folding of alpha helices and beta sheets gives a protein its three-dimensional or tertiary structure. 
+Finally, multiple tertiary structures can combine to form the quaternary structure of a protein. 
+Nucleic acids are polymers made up of monomers called nucleotides.
+[39]Their function is to store, transmit, and express hereditary information.
+[36]Nucleotides consist of a phosphate group, a five-carbon sugar, and a nitrogenous base. 
+Ribonucleotides, which contain ribose as the sugar, are the monomers of ribonucleic acid (RNA). 
+In contrast, deoxyribonucleotides contain deoxyribose as the sugar and are constitute the monomers of deoxyribonucleic acid (DNA). 
+RNA and DNA also differ with respect to one of their bases.
+[39]There are two types of bases: purines and pyrimidines.
+[39]The purines include guanine (G) and adenine (A) whereas the pyrimidines consist of cytosine (C), uracil (U), and thymine (T). 
+Uracil is used in RNA whereas thymine is used in DNA. 
+Taken together, when the different sugar and bases are take into consideration, there are eight distinct nucleotides that can form two types of nucleic acids: DNA (A, G, C, and T) and RNA (A, G, C, and U).
+Cell theory states that cells are the fundamental units of life, that all living things are composed of one or more cells, and that all cells arise from preexisting cells through cell division.
+[40]Most cells are very small, with diameters ranging from 1 to 100 micrometers and are therefore only visible under a light or electron microscope.
+[41]There are generally two types of cells: eukaryotic cells, which contain a nucleus, and prokaryotic cells, which do not. 
+Prokaryotes are single-celled organisms such as bacteria, whereas eukaryotes can be single-celled or multicellular. 
+In multicellular organisms, every cell in the organism's body is derived ultimately from a single cell in a fertilized egg. 
+Every cell is enclosed within a cell membrane that separates its cytoplasm from the extracellular space.
+[42]A cell membrane consists of a lipid bilayer, including cholesterols that sit between phospholipids to maintain their fluidity at various temperatures. 
+Cell membranes are semipermeable, allowing small molecules such as oxygen, carbon dioxide, and water to pass through while restricting the movement of larger molecules and charged particles such as ions.
+[43]Cell membranes also contains membrane proteins, including integral membrane proteins that go across the membrane serving as membrane transporters, and peripheral proteins that loosely attach to the outer side of the cell membrane, acting as enzymes shaping the cell.
+[44]Cell membranes are involved in various cellular processes such as cell adhesion, storing electrical energy, and cell signalling and serve as the attachment surface for several extracellular structures such as a cell wall, glycocalyx, and cytoskeleton. 
+Within the cytoplasm of a cell, there are many biomolecules such as proteins and nucleic acids.
+[45]In addition to biomolecules, eukaryotic cells have specialized structures called organelles that have their own lipid bilayers or are spatially units.
+[46]These organelles include the cell nucleus, which contains most of the cell's DNA, or mitochondria, which generates adenosine triphosphate (ATP) to power cellular processes. 
+Other organelles such as endoplasmic reticulum and Golgi apparatus play a role in the synthesis and packaging of proteins, respectively. 
+Biomolecules such as proteins can be engulfed by lysosomes, another specialized organelle. 
+Plant cells have additional organelles that distinguish them from animal cells such as a cell wall that provides support for the plant cell, chloroplasts that harvest sunlight energy to produce sugar, and vacuoles that provide storage and structural support as well as being involved in reproduction and breakdown of plant seeds.
+[46]Eukaryotic cells also have cytoskeleton that is made up of microtubules, intermediate filaments, and microfilaments, all of which provide support for the cell and are involved in the movement of the cell and its organelles.
+[46]In terms of their structural composition, the microtubules are made up of tubulin (e.
+gα-tubulin and β-tubulin whereas intermediate filaments are made up of fibrous proteins.
+[46]Microfilaments are made up of actin molecules that interact with other strands of proteins.
+All cells require energy to sustain cellular processes. 
+Energy is the capacity to do work, which, in thermodynamics, can be calculated using Gibbs free energy. 
+According to the first law of thermodynamics, energy is conserved, i.
+ecannot be created or destroyed. 
+Hence, chemical reactions in a cell do not create new energy but are involved instead in the transformation and transfer of energy.
+[47]Nevertheless, all energy transfers lead to some loss of usable energy, which increases entropy (or state of disorder) as stated by the second law of thermodynamics. 
+As a result, an organism requires continuous input of energy to maintain a low state of entropy. 
+In cells, energy can be transferred as electrons during redox (reduction–oxidation) reactions, stored in covalent bonds, and generated by the movement of ions (e.
+ghydrogen, sodium, potassium) across a membrane. 
+Metabolism is the set of life-sustaining chemical reactions in organisms. 
+The three main purposes of metabolism are: the conversion of food to energy to run cellular processes; the conversion of food/fuel to building blocks for proteins, lipids, nucleic acids, and some carbohydrates; and the elimination of metabolic wastes. 
+These enzyme-catalyzed reactions allow organisms to grow and reproduce, maintain their structures, and respond to their environments. 
+Metabolic reactions may be categorized as catabolic—the breaking down of compounds (for example, the breaking down of glucose to pyruvate by cellular respiration); or anabolic—the building up (synthesis) of compounds (such as proteins, carbohydrates, lipids, and nucleic acids). 
+Usually, catabolism releases energy, and anabolism consumes energy. 
+The chemical reactions of metabolism are organized into metabolic pathways, in which one chemical is transformed through a series of steps into another chemical, each step being facilitated by a specific enzyme. 
+Enzymes are crucial to metabolism because they allow organisms to drive desirable reactions that require energy that will not occur by themselves, by coupling them to spontaneous reactions that release energy. 
+Enzymes act as catalysts—they allow a reaction to proceed more rapidly without being consumed by it—by reducing the amount of activation energy needed to convert reactants into products. 
+Enzymes also allow the regulation of the rate of a metabolic reaction, for example in response to changes in the cell's environment or to signals from other cells. 
+Cellular respiration is a set of metabolic reactions and processes that take place in the cells of organisms to convert chemical energy from nutrients into adenosine triphosphate (ATP), and then release waste products.
+[48]The reactions involved in respiration are catabolic reactions, which break large molecules into smaller ones, releasing energy. 
+Respiration is one of the key ways a cell releases chemical energy to fuel cellular activity. 
+The overall reaction occurs in a series of biochemical steps, some of which are redox reactions. 
+Although cellular respiration is technically a combustion reaction, it clearly does not resemble one when it occurs in a cell because of the slow, controlled release of energy from the series of reactions. 
+Sugar in the form of glucose is the main nutrient used by animal and plant cells in respiration. 
+Cellular respiration involving oxygen is called aerobic respiration, which has four stages: glycolysis, citric acid cycle (or Krebs cycle), electron transport chain, and oxidative phosphorylation.
+[49]Glycolysis is a metabolic process that occurs in the cytoplasm whereby glucose is converted into two pyruvates, with two net molecules of ATP being produced at the same time.
+[49]Each pyruvate is then oxidized into acetyl-CoA by the pyruvate dehydrogenase complex, which also generates NADH and carbon dioxide. 
+Acetyl-Coa enters the citric acid cycle, which takes places inside the mitochondrial matrix. 
+At the end of the cycle, the total yield from 1 glucose (or 2 pyruvates) is 6 NADH, 2 FADH2, and 2 ATP molecules. 
+Finally, the next stage is oxidative phosphorylation, which in eukaryotes, occurs in the mitochondrial cristae. 
+Oxidative phosphorylation comprises the electron transport chain, which is a series of four protein complexes that transfer electrons from one complex to another, thereby releasing energy from NADH and FADH2 that is coupled to the pumping of protons (hydrogen ions) across the inner mitochondrial membrane (chemiosmosis), which generates a proton motive force.
+[49]Energy from the proton motive force drives the enzyme ATP synthase to synthesize more ATPs by phosphorylating ADPs. 
+The transfer of electrons terminates with molecular oxygen being the final electron acceptor. 
+If oxygen were not present, pyruvate would not be metabolized by cellular respiration but undergoes a process of fermentation. 
+The pyruvate is not transported into the mitochondrion but remains in the cytoplasm, where it is converted to waste products that may be removed from the cell. 
+This serves the purpose of oxidizing the electron carriers so that they can perform glycolysis again and removing the excess pyruvate. 
+Fermentation oxidizes NADH to NAD+ so it can be re-used in glycolysis. 
+In the absence of oxygen, fermentation prevents the buildup of NADH in the cytoplasm and provides NAD+ for glycolysis. 
+This waste product varies depending on the organism. 
+In skeletal muscles, the waste product is lactic acid. 
+This type of fermentation is called lactic acid fermentation. 
+In strenuous exercise, when energy demands exceed energy supply, the respiratory chain cannot process all of the hydrogen atoms joined by NADH. 
+During anaerobic glycolysis, NAD+ regenerates when pairs of hydrogen combine with pyruvate to form lactate. 
+Lactate formation is catalyzed by lactate dehydrogenase in a reversible reaction. 
+Lactate can also be used as an indirect precursor for liver glycogen. 
+During recovery, when oxygen becomes available, NAD+ attaches to hydrogen from lactate to form ATP. 
+In yeast, the waste products are ethanol and carbon dioxide. 
+This type of fermentation is known as alcoholic or ethanol fermentation. 
+The ATP generated in this process is made by substrate-level phosphorylation, which does not require oxygen. 
+Photosynthesis is a process used by plants and other organisms to convert light energy into chemical energy that can later be released to fuel the organism's metabolic activities via cellular respiration. 
+This chemical energy is stored in carbohydrate molecules, such as sugars, which are synthesized from carbon dioxide and water.
+[50][51][52]In most cases, oxygen is also released as a waste product. 
+Most plants, algae, and cyanobacteria perform photosynthesis, which is largely responsible for producing and maintaining the oxygen content of the Earth's atmosphere, and supplies most of the energy necessary for life on Earth.
+Photosynthesis has four stages: Light absorption, electron transport, ATP synthesis, and carbon fixation.
+[49]Light absorption is the initial step of photosynthesis whereby light energy is absorbed by chlorophyll pigments attached to proteins in the thylakoid membranes. 
+The absorbed light energy is used to remove electrons from a donor (water) to a primary electron acceptor, a quinone designated as Q. 
+In the second stage, electrons move from the quinone primary electron acceptor through a series of electron carriers until they reach a final electron acceptor, which is usually the oxidized form of NADP+, which is reduced to NADPH, a process that takes place in a protein complex called photosystem I (PSI). 
+The transport of electrons is coupled to the movement of protons (or hydrogen) from the stroma to the thylakoid membrane, which forms a pH gradient across the membrane as hydrogen becomes more concentrated in the lumen than in the stroma. 
+This is analogous to the proton-motive force generated across the inner mitochondrial membrane in aerobic respiration.
+During the third stage of photosynthesis, the movement of protons down their concentration gradients from the thylakoid lumen to the stroma through the ATP synthase is coupled to the synthesis of ATP by that same ATP synthase.
+[49]The NADPH and ATPs generated by the light-dependent reactions in the second and third stages, respectively, provide the energy and electrons to drive the synthesis of glucose by fixing atmospheric carbon dioxide into existing organic carbon compounds, such as ribulose bisphosphate (RuBP) in a sequence of light-independent (or dark) reactions called the Calvin cycle.
+Cell signaling (or communication) is the ability of cells to receive, process, and transmit signals with its environment and with itself.
+[55][56]Signals can be non-chemical such as light, electrical impulses, and heat, or chemical signals (or ligands) that interact with receptors, which can be found embedded in the cell membrane of another cell or located deep inside a cell.
+[57][56]There are generally four types of chemical signals: autocrine, paracrine, juxtacrine, and hormones.
+[57]In autocrine signaling, the ligand affects the same cell that releases it. 
+Tumor cells, for example, can reproduce uncontrollably because they release signals that initiate their own self-division. 
+In paracrine signaling, the ligand diffuses to nearby cells and affects them. 
+For example, brain cells called neurons release ligands called neurotransmitters that diffuse across a synaptic cleft to bind with a receptor on an adjacent cell such as another neuron or muscle cell. 
+In juxtacrine signaling, there is direct contact between the signaling and responding cells. 
+Finally, hormones are ligands that travel through the circulatory systems of animals or vascular systems of plants to reach their target cells. 
+Once a ligand binds with a receptor, it can influence the behavior of another cell, depending on the type of receptor. 
+For instance, neurotransmitters that bind with an inotropic receptor can alter the excitability of a target cell. 
+Other types of receptors include protein kinase receptors (e.
+greceptor for the hormone insulin) and G protein-coupled receptors. 
+Activation of G protein-coupled receptors can initiate second messenger cascades. 
+The cell cycle is a series of events that take place in a cell that cause it to divide into two daughter cells. 
+These events include the duplication of its DNA and some of its organelles, and the subsequent partitioning of its cytoplasm into two daughter cells in a process called cell division.
+[58]In eukaryotes (i.
+eanimal, plant, fungal, and protist cells), there are two distinct types of cell division: mitosis and meiosis.
+[59]Mitosis is part of the cell cycle, in which replicated chromosomes are separated into two new nuclei. 
+Cell division gives rise to genetically identical cells in which the total number of chromosomes is maintained. 
+In general, mitosis (division of the nucleus) is preceded by the S stage of interphase (during which the DNA is replicated) and is often followed by telophase and cytokinesis; which divides the cytoplasm, organelles and cell membrane of one cell into two new cells containing roughly equal shares of these cellular components. 
+The different stages of mitosis all together define the mitotic phase of an animal cell cycle—the division of the mother cell into two genetically identical daughter cells.
+[60]The cell cycle is a vital process by which a single-celled fertilized egg develops into a mature organism, as well as the process by which hair, skin, blood cells, and some internal organs are renewed. 
+After cell division, each of the daughter cells begin the interphase of a new cycle. 
+In contrast to mitosis, meiosis results in four haploid daughter cells by undergoing one round of DNA replication followed by two divisions.
+[61]Homologous chromosomes are separated in the first division (meiosis I), and sister chromatids are separated in the second division (meiosis II). 
+Both of these cell division cycles are used in the process of sexual reproduction at some point in their life cycle. 
+Both are believed to be present in the last eukaryotic common ancestor. 
+Prokaryotes (i.
+earchaea and bacteria) can also undergo cell division (or binary fission). 
+Unlike the processes of mitosis and meiosis in eukaryotes, binary fission takes in prokaryotes takes place without the formation of a spindle apparatus on the cell. 
+Before binary fission, DNA in the bacterium is tightly coiled. 
+After it has uncoiled and duplicated, it is pulled to the separate poles of the bacterium as it increases the size to prepare for splitting. 
+Growth of a new cell wall begins to separate the bacterium (triggered by FtsZ polymerization and "Z-ring" formation)[62] The new cell wall (septum) fully develops, resulting in the complete split of the bacterium. 
+The new daughter cells have tightly coiled DNA rods, ribosomes, and plasmids. 
+Genetics is the scientific study of inheritance.
+[63][64][65]Mendelian inheritance, specifically, is the process by which genes and traits are passed on from parents to offspring.
+[28]It was formulated by Gregor Mendel, based on his work with pea plants in the mid-nineteenth century. 
+Mendel established several principles of inheritance. 
+The first is that genetic characteristics, which are now called alleles, are discrete and have alternate forms (e.
+gpurple vs. 
+white or tall vs. 
+dwarf), each inherited from one of two parents. 
+Based on his law of dominance and uniformity, which states that some alleles are dominant while others are recessive; an organism with at least one dominant allele will display the phenotype of that dominant allele.
+[66]Exceptions to this rule include penetrance and expressivity.
+[28]Mendel noted that during gamete formation, the alleles for each gene segregate from each other so that each gamete carries only one allele for each gene, which is stated by his law of segregation. 
+Heterozygotic individuals produce gametes with an equal frequency of two alleles. 
+Finally, Mendel formulated the law of independent assortment, which states that genes of different traits can segregate independently during the formation of gametes, i.
+egenes are unlinked. 
+An exception to this rule would include traits that are sex-linked. 
+Test crosses can be performed to experimentally determine the underlying genotype of an organism with a dominant phenotype.
+[67]A Punnett square can be used to predict the results of a test cross. 
+The chromosome theory of inheritance, which states that genes are found on chromosomes, was supported by Thomas Morgans's experiments with fruit flies, which established the sex linkage between eye color and sex in these insects.
+[68]In humans and other mammals (e.
+gdogs), it is not feasible or practical to conduct test cross experiments. 
+Instead, pedigrees, which are genetic representations of family trees,[69] are used instead to trace the inheritance of a specific trait or disease through multiple generations.
+A gene is a unit of heredity that corresponds to a region of deoxyribonucleic acid (DNA) that carries genetic information that influences the form or function of an organism in specific ways. 
+DNA is a molecule composed of two polynucleotide chains that coil around each other to form a double helix, which was first described by James Watson and Francis Crick in 1953.
+[71]It is found as linear chromosomes in eukaryotes, and circular chromosomes in prokaryotes. 
+A chromosome is an organized structure consisting of DNA and histones. 
+The set of chromosomes in a cell and any other hereditary information found in the mitochondria, chloroplasts, or other locations is collectively known as a cell's genome. 
+In eukaryotes, genomic DNA is localized in the cell nucleus, or with small amounts in mitochondria and chloroplasts.
+[72]In prokaryotes, the DNA is held within an irregularly shaped body in the cytoplasm called the nucleoid.
+[73]The genetic information in a genome is held within genes, and the complete assemblage of this information in an organism is called its genotype.
+[74]Genes encode the information needed by cells for the synthesis of proteins, which in turn play a central role in influencing the final phenotype of the organism. 
+The two polynucleotide strands that make up DNA run in opposite directions to each other and are thus antiparallel. 
+Each strand is composed of nucleotides,[75][76] with each nucleotide containing one of four nitrogenous bases (cytosine [C], guanine [G], adenine [A] or thymine [T]), a sugar called deoxyribose, and a phosphate group. 
+The nucleotides are joined to one another in a chain by covalent bonds between the sugar of one nucleotide and the phosphate of the next, resulting in an alternating sugar-phosphate backbone. 
+It is the sequence of these four bases along the backbone that encodes genetic information. 
+Bases of the two polynucleotide strands are bound together by hydrogen bonds, according to base pairing rules (A with T and C with G), to make double-stranded DNA. 
+The bases are divided into two groups: pyrimidines and purines. 
+In DNA, the pyrimidines are thymine and cytosine whereas the purines are adenine and guanine. 
+There are grooves that run along the entire length of the double helix due to the uneven spacing of the DNA strands relative to each other.
+[71]Both grooves differ in size, with the major groove being larger and therefore more accessible to the binding of proteins than the minor groove.
+[71]The outer edges of the bases are exposed to these grooves and are therefore accessible for additional hydrogen bonding.
+[71]Because each groove can have two possible base-pair configurations (G-C and A-T), there are four possible base-pair configurations within the entire double helix, each of which is chemically distinct from another.
+[71]As a result, protein molecules are able to recognize and bind to specific base-pair sequences, which is the basis of specific DNA-protein interactions. 
+DNA replication is a semiconservative process whereby each strand serves as a template for a new strand of DNA.
+[71]The process begins with the unwounding of the double helix at an origin of replication, which separates the two strands, thereby making them available as two templates. 
+This is then followed by the binding of the enzyme primase to the template to synthesize a starter RNA (or DNA in some viruses) strand called a primer from the 5' to 3' location.
+[71]Once the primer is completed, the primase is released from the template, followed by the binding of the enzyme DNA polymerase to the same template to synthesize new DNA. 
+The rate of DNA replication in a living cell was measured as 749 nucleotides added per second under ideal conditions.
+DNA replication is not perfect as the DNA polymerase sometimes insert bases that are not complementary to the template (e.
+gputting in A in the strand opposite to G in the template strand).
+[71]In eukaryotes, the initial error or mutation rate is about 1 in 100,000.
+[71]Proofreading and mismatch repair are the two mechanisms that repair these errors, which reduces the mutation rate to 10−10, particularly before and after a cell cycle.
+Mutations are heritable changes in DNA.
+[71]They can arise spontaneously as a result of replication errors that were not corrected by proofreading or can be induced by an environmental mutagen such as a chemical (e.
+gnitrous acid, benzopyrene) or radiation (e.
+gx-ray, gamma ray, ultraviolet radiation, particles emitted by unstable isotopes).
+[71]Mutations can appear as a change in single base or at a larger scale involving chromosomal mutations such as deletions, inversions, or translocations.
+In multicellular organisms, mutations can occur in somatic or germline cells.
+[71]In somatic cells, the mutations are passed on to daughter cells during mitosis.
+[71]In a germline cell such as a sperm or an egg, the mutation will appear in an organism at fertilization.
+[71]Mutations can lead to several types of phenotypic effects such as silent, loss-of-function, gain-of-function, and conditional mutations.
+Some mutations can be beneficial, as they are a source of genetic variation for evolution.
+[71]Others can be harmful if they were to result in a loss of function of genes needed for survival.
+[71]Mutagens such as carcinogens are typically avoided as a matter of public health policy goals.
+[71]One example is the banning of chlorofluorocarbons (CFC) by the Montreal Protocol, as CFCs tend to deplete the ozone layer, resulting in more ultraviolet radiation from the sun passing through the Earth's upper atmosphere, thereby causing somatic mutations that can lead to skin cancer.
+[71]Similarly, smoking bans have been enforced throughout the world in an effort to reduce the incidence of lung cancer.
+Gene expression is the molecular process by which a genotype gives rise to a phenotype, i.
+eobservable trait. 
+The genetic information stored in DNA represents the genotype, whereas the phenotype results from the synthesis of proteins that control an organism's structure and development, or that act as enzymes catalyzing specific metabolic pathways. 
+This process is summarized by the central dogma of molecular biology, which was formulated by Francis Crick in 1958.
+[78][79][80]According to the Central Dogma, genetic information flows from DNA to RNA to protein. 
+Hence, there are two gene expression processes: transcription (DNA to RNA) and translation (RNA to protein).
+[81]These processes are used by all life—eukaryotes (including multicellular organisms), prokaryotes (bacteria and archaea), and are exploited by viruses—to generate the macromolecular machinery for life. 
+During transcription, messenger RNA (mRNA) strands are created using DNA strands as a template, which is initiated when RNA polymerase binds to a DNA sequence called a promoter, which instructs the RNA to begin transcription of one of the two DNA strands.
+[82]The DNA bases are exchanged for their corresponding bases except in the case of thymine (T), for which RNA substitutes uracil (U).
+[83]In eukaryotes, a large part of DNA (e.
+g>98% in humans) contain non-coding called introns, which do not serve as patterns for protein sequences. 
+The coding regions or exons are interspersed along with the introns in the primary transcript (or pre-mRNA).
+[82]Before translation, the pre-mRNA undergoes further processing whereby the introns are removed (or spliced out), leaving only the spliced exons in the mature mRNA strand.
+The translation of mRNA to protein occurs in ribosomes, whereby the transcribed mRNA strand specifies the sequence of amino acids within proteins using the genetic code. 
+Gene products are often proteins, but in non-protein-coding genes such as transfer RNA (tRNA) and small nuclear RNA (snRNA), the product is a functional non-coding RNA.
+The regulation of gene expression (or gene regulation) by environmental factors and during different stages of development can occur at each step of the process such as transcription, RNA splicing, translation, and post-translational modification of a protein.
+The ability of gene transcription to be regulated allows for the conservation of energy as cells will only make proteins when needed.
+[86]Gene expression can be influenced by positive or negative regulation, depending on which of the two types of regulatory proteins called transcription factors bind to the DNA sequence close to or at a promoter.
+[86]A cluster of genes that share the same promoter is called an operon, found mainly in prokaryotes and some lower eukaryotes (e.
+gCaenorhabditis elegans).
+[86][87]It was first identified in Escherichia coli—a prokaryotic cell that can be found in the intestines of humans and other animals—in the 1960s by François Jacob and Jacques Monod.
+[86]They studied the prokaryotic cell's lac operon, which is part of three genes (lacZ, lacY, and lacA) that encode three lactose-metabolizing enzymes (β-galactosidase, β-galactoside permease, and β-galactoside transacetylase).
+[86]In positive regulation of gene expression, the activator is the transcription factor that stimulates transcription when it binds to the sequence near or at the promoter. 
+In contrast, negative regulation occurs when another transcription factor called a repressor binds to a DNA sequence called an operator, which is part of an operon, to prevent transcription. 
+When a repressor binds to a repressible operon (e.
+gtrp operon), it does so only in the presence of a corepressor. 
+Repressors can be inhibited by compounds called inducers (e.
+gallolactose), which exert their effects by binding to a repressor to prevent it from binding to an operator, thereby allowing transcription to occur.
+[86]Specific genes that can be activated by inducers are called inducible genes (e.
+glacZ or lacA in E. 
+coli), which are in contrast to constitutive genes that are almost always active.
+[86]In contrast to both, structural genes encode proteins that are not involved in gene regulation.
+In prokaryotic cells, transcription is regulated by proteins called sigma factors, which bind to RNA polymerase and direct it to specific promoters.
+[86]Similarly, transcription factors in eukaryotic cells can also coordinate the expression of a group of genes, even if the genes themselves are located on different chromosomes.
+[86]Coordination of these genes can occur as long as they share the same regulatory DNA sequence that bind to the same transcription factors.
+[86]Promoters in eukaryotic cells are more diverse but tend to contain a core sequence that RNA polymerase can bind to, with the most common sequence being the TATA box, which contains multiple repeating A and T bases.
+[86]Specifically, RNA polymerase II is the RNA polymerase that binds to a promoter to initiate transcription of protein-coding genes in eukaryotes, but only in the presence of multiple general transcription factors, which are distinct from the transcription factors that have regulatory effects, i.
+eactivators and repressors.
+[86]In eukaryotic cells, DNA sequences that bind with activators are called enhances whereas those sequences that bind with repressors are called silencers.
+[86]Transcription factors such as nuclear factor of activated T-cells (NFAT) are able to identify specific nucleotide sequence based on the base sequence (e.
+gCGAGGAAAATTG for NFAT) of the binding site, which determines the arrangement of the chemical groups within that sequence that allows for specific DNA-protein interactions.
+[86]The expression of transcription factors is what underlies cellular differentiation in a developing embryo.
+In addition to regulatory events involving the promoter, gene expression can also be regulated by epigenetic changes to chromatin, which is a complex of DNA and protein found in eukaryotic cells.
+Post-transcriptional control of mRNA can involve the alternative splicing of primary mRNA transcripts, resulting in a single gene giving rise to different mature mRNAs that encode a family of different proteins.
+[86][88]A well-studied example is the Sxl gene in Drosophila, which determines the sex in these animals. 
+The gene itself contains four exons and alternative splicing of its pre-mRNA transcript can generate two active forms of the Sxl protein in female flies and one in inactive form of the protein in males.
+[86]Another example is the human immunodeficiency virus (HIV), which has a single pre-mRNA transcript that can generate up to nine proteins as a result of alternative splicing.
+[86]In humans, eighty percent of all 21,000 genes are alternatively spliced.
+[86]Given that both chimpanzees and humans have a similar number of genes, it is thought that alternative splicing might have contributed to the latter's complexity due to the greater number of alternative splicing in the human brain than in the brain of chimpanzees.
+Translation can be regulated in three known ways, one of which involves the binding of tiny RNA molecules called microRNA (miRNA) to a target mRNA transcript, which inhibits its translation and causes it to degrade.
+[86]Translation can also be inhibited by the modification of the 5' cap by substituting the modified guanosine triphosphate (GTP) at the 5' end of an mRNA for an unmodified GTP molecule.
+[86]Finally, translational repressor proteins can bind to mRNAs and prevent them from attaching to a ribosome, thereby blocking translation.
+Once translated, the stability of proteins can be regulated by being targeted for degradation.
+[86]A common example is when an enzyme attaches a regulatory protein called ubiquitin to the lysine residue of a targeted protein.
+[86]Other ubiquitins then attached to the primary ubiquitin to form a polyubiquitinated protein, which then enters a much larger protein complex called proteasome.
+[86]Once the polyubiquitinated protein enters the proteasome, the polyubiquitin detaches from the target protein, which is unfolded by the proteasome in an ATP-dependent manner, allowing it to be hydrolyzed by three proteases.
+A genome is an organism's complete set of DNA, including all of its genes.
+[89]Sequencing and analysis of genomes can be done using high throughput DNA sequencing and bioinformatics to assemble and analyze the function and structure of entire genomes.
+[90][91][92]The genomes of prokaryotes are small, compact, and diverse. 
+In contrast, the genomes of eukaryotes are larger and more complex such as having more regulatory sequences and much of its genome are made up of non-coding DNA sequences for functional RNA (rRNA, tRNA, and mRNA) or regulatory sequences. 
+The genomes of various model organisms such as arabidopsis, fruit fly, mice, nematodes, and yeast have been sequenced. 
+The Human Genome Project was a major undertaking by the international scientific community to sequence the entire human genome, which was completed in 2003.
+[93]The sequencing of the human genome has yielded practical applications such as DNA fingerprinting, which can be used for paternity testing and forensics. 
+In medicine, sequencing of the entire human genome has allowed for the identification of mutations that cause tumors as well as genes that cause a specific genetic disorder.
+[93]The sequencing of genomes from various organisms has led to the emergence of comparative genomics, which aims to draw comparisons of genes from the genomes of those different organisms.
+Many genes encode more than one protein, with posttranslational modifications increasing the diversity of proteins within a cell. 
+An organism's proteome is its entire set of proteins expressed by its genome and proteomics seeks to study the complete set of proteins produced by an organism.
+[93]Because many proteins are enzymes, their activities tend to affects the concentrations of substrates and products. 
+Thus, as the proteome changes, so do the amount of small molecules or metabolites.
+[93]The complete set of small molecules in a cell or organism is called a metabolome and metabolomics is the study of the metabolome in relation to the physiological activity of a cell or organism.
+Biotechnology is the use of cells or organisms to develop products for humans.
+[94]One commonly used technology with wide applications is the creation of recombinant DNA, which is a DNA molecule assembled from two or more sources in a laboratory. 
+Before the advent of polymerase chain reaction, biologists would manipulate DNA by cutting it into smaller fragments using restriction enzymes. 
+They would then purify and analyze the fragments using gel electrophoresis and then later recombine the fragments into a novel DNA sequence using DNA ligase.
+[94]The recombinant DNA is then cloned by inserting it into a host cell, a process known as transformation if the host cells were bacteria such as E. 
+coli, or transfection if the host cells were eukaryotic cells like yeast, plant, or animal cells. 
+Once the host cell or organism has received and integrated the recombinant DNA, it is described as transgenic.
+A recombinant DNA can be inserted in one of two ways. 
+A common method is to insert the DNA into a host chromosome, with the site of insertion being random.
+[94]Another approach would be to insert the recombinant DNA as part of another DNA sequence called a vector, which then integrates into the host chromosome or has its own origin of DNA replication, thereby allowing to replicate independently of the host chromosome.
+[94]Plasmids from bacterial cells such as E. 
+coli are typically used as vectors due to their relatively small size (e.g. 
+2000–6000 base pairs in E. 
+coli), presence of restriction enzymes, genes that are resistant to antibiotics, and the presence of an origin of replication.
+[94]A gene coding for a selectable marker such as antibiotic resistance is also incorporated into the vector.
+[94]Inclusion of this market allows for the selection of only those host cells that contained the recombinant DNA while discarding those that do not.
+[94]Moreover, the marker also serves as a reporter gene that once expressed, can be easily detected and measured.
+Once the recombinant DNA is inside individual bacterial cells, those cells are then plated and allowed to grow into a colony that contains millions of transgenic cells that carry the same recombinant DNA.
+[95]These transgenic cells then produce large quantities of the transgene product such as human insulin, which was the first medicine to be made using recombinant DNA technology.
+One of the goals of molecular cloning is to identify the function of specific DNA sequences and the proteins they encode.
+[94]For a specific DNA sequence to be studied and manipulated, millions of copies of DNA fragments containing that DNA sequence need to be made.
+[94]This involves breaking down an intact genome, which is much too large to be introduced into a host cell, into smaller DNA fragments. 
+Although no longer intact, the collection of these DNA fragments still make up an organism's genome, with the collection itself being referred to as a genomic library, due to the ability to search and retrieve specific DNA fragments for further study, analogous to the process of retrieving a book from a regular library.
+[94]DNA fragments can be obtained using restriction enzymes and other processes such as mechanical shearing. 
+Each obtained fragment is then inserted into a vector that is taken up by a bacterial host cell. 
+The host cell is then allowed to proliferate on a selective medium (e.
+gantibiotic resistance), which produces a colony of these recombinant cells, each of which contains many copies of the same DNA fragment.
+[94]These colonies can be grown by spreading them over a solid medium in Petri dishes, which are incubated at a suitable temperature. 
+One dish alone can hold thousands of bacterial colonies, which can be easily screened for a specific DNA sequence.
+[94]The sequence can be identified by first duplicating a Petri dish with bacterial colonies and then exposing the DNA of the duplicated colonies for hybridization, which involves labeling them with complementary radioactive or fluorescent nucleotides.
+Smaller DNA libraries that contain genes from a specific tissue can be created using complementary DNA (cDNA).
+[94]The collection of these cDNAs from a specific tissue at a particular time is called a cDNA library, which provides a "snapshot" of transcription patterns of cells at a specific location and time.
+Other biotechnology tools include DNA microarrays, expression vectors, synthetic genomics, and CRISPR gene editing.
+[94][96]Other approaches such as pharming can produce large quantities of medically useful products through the use of genetically modified organisms.
+[94]Many of these other tools also have wide applications such as creating medically useful proteins, or improving plant cultivation and animal husbandry.
+Development is the process by which a multicellular organism (plant or animal) goes through a series of a changes, starting from a single cell, and taking on various forms that are characteristic of its life cycle.
+[98]There are four key processes that underlie development: Determination, differentiation, morphogenesis, and growth. 
+Determination sets the developmental fate of a cell, which becomes more restrictive during development. 
+Differentiation is the process by which specialized cells from less specialized cells such as stem cells.
+[99][100]Stem cells are undifferentiated or partially differentiated cells that can differentiate into various types of cells and proliferate indefinitely to produce more of the same stem cell.
+[101]Cellular differentiation dramatically changes a cell's size, shape, membrane potential, metabolic activity, and responsiveness to signals, which are largely due to highly controlled modifications in gene expression and epigenetics. 
+With a few exceptions, cellular differentiation almost never involves a change in the DNA sequence itself.
+[102]Thus, different cells can have very different physical characteristics despite having the same genome. 
+Morphogenesis, or the development of body form, is the result of spatial differences in gene expression.
+[98]Specially, the organization of differentiated tissues into specific structures such as arms or wings, which is known as pattern formation, is governed by morphogens, signaling molecules that move from one group of cells to surrounding cells, creating a morphogen gradient as described by the French flag model. 
+Apoptosis, or programmed cell death, also occurs during morphogenesis, such as the death of cells between digits in human embryonic development, which frees up individual fingers and toes. 
+Expression of transcription factor genes can determine organ placement in a plant and a cascade of transcription factors themselves can establish body segmentation in a fruit fly.
+A small fraction of the genes in an organism's genome called the developmental-genetic toolkit control the development of that organism. 
+These toolkit genes are highly conserved among phyla, meaning that they are ancient and very similar in widely separated groups of animals. 
+Differences in deployment of toolkit genes affect the body plan and the number, identity, and pattern of body parts. 
+Among the most important toolkit genes are the Hox genes. 
+Hox genes determine where repeating parts, such as the many vertebrae of snakes, will grow in a developing embryo or larva.
+[103]Variations in the toolkit may have produced a large part of the morphological evolution of animals. 
+The toolkit can drive evolution in two ways. 
+A toolkit gene can be expressed in a different pattern, as when the beak of Darwin's large ground-finch was enlarged by the BMP gene,[104] or when snakes lost their legs as Distal-less (Dlx) genes became under-expressed or not expressed at all in the places where other reptiles continued to form their limbs.
+[105]Or, a toolkit gene can acquire a new function, as seen in the many functions of that same gene, distal-less, which controls such diverse structures as the mandible in vertebrates,[106][107] legs and antennae in the fruit fly,[108] and eyespot pattern in butterfly wings.
+[109]Given that small changes in toolbox genes can cause significant changes in body structures, they have often enabled convergent or parallel evolution. 
+A central organizing concept in biology is that life changes and develops through evolution, which is the change in heritable characteristics of populations over successive generations.
+[110][111]Evolution is now used to explain the great variations of life on Earth. 
+The term evolution was introduced into the scientific lexicon by Jean-Baptiste de Lamarck in 1809.
+[112][113]He proposed that evolution occurred as a result of inheritance of acquired characteristics, which was unconvincing but there were no alternative explanations at the time.
+[112]Charles Darwin, an English naturalist, had returned to England in 1836 from his five-year travels on the HMS Beagle where he studied rocks and collected plants and animals from various parts of the world such as the Galápagos Islands.
+[112]He had also read Principles of Geology by Charles Lyell and An Essay on the Principle of Population by Thomas Malthus and was influenced by them.
+[114]Based on his observations and readings, Darwin began to formulate his theory of evolution by natural selection to explain the diversity of plants and animals in different parts of the world.
+[112][114]Alfred Russel Wallace, another English naturalist who had studied plants and animals in the Malay Archipelago, also came to the same idea, but later and independently of Darwin.
+[112]Both Darwin and Wallace jointly presented their essay and manuscript, respectively, at the Linnaean Society of London in 1858, giving them both credit for their discovery of evolution by natural selection.
+[112][115][116][117][118]Darwin would later publish his book On the Origin of Species in 1859, which explained in detail how the process of evolution by natural selection works.
+To explain natural selection, Darwin drew an analogy with humans modifying animals through artificial selection, whereby animals were selectively bred for specific traits, which has given rise to individuals that no longer resemble their wild ancestors.
+[114]Darwin argued that in the natural world, it was nature that played the role of humans in selecting for specific traits. 
+He came to this conclusion based on two observations and two inferences.
+[114]First, members of any population tend to vary with respect to their heritable traits. 
+Second, all species tend to produce more offspring than can be supported by their respective environments, resulting in many individuals not surviving and reproducing.
+[114]Based on these observations, Darwin inferred that those individuals who possessed heritable traits that are better adapted to their environments are more likely to survive and produce more offspring than other individuals.
+[114]He further inferred that the unequal or differential survival and reproduction of certain individuals over others will lead to the accumulation of favorable traits over successive generations, thereby increasing the match between the organisms and their environment.
+[114][119][120]Thus, taken together, natural selection is the differential survival and reproduction of individuals in subsequent generations due to differences in or more heritable traits.
+Darwin was not aware of Mendel's work of inheritance and so the exact mechanism of inheritance that underlie natural selection was not well-understood[122] until the early 20th century when the modern synthesis reconciled Darwinian evolution with classical genetics, which established a neo-Darwinian perspective of evolution by natural selection.
+[121]This perspective holds that evolution occurs when there are changes in the allele frequencies within a population of interbreeding organisms. 
+In the absence of any evolutionary process acting on a large random mating population, the allele frequencies will remain constant across generations as described by the Hardy–Weinberg principle.
+Another process that drives evolution is genetic drift, which is the random fluctuations of allele frequencies within a population from one generation to the next.
+[124]When selective forces are absent or relatively weak, allele frequencies are equally likely to drift upward or downward at each successive generation because the alleles are subject to sampling error.
+[125]This drift halts when an allele eventually becomes fixed, either by disappearing from the population or replacing the other alleles entirely. 
+Genetic drift may therefore eliminate some alleles from a population due to chance alone. 
+A species is a group of organisms that mate with one another and speciation is the process by which one lineage splits into two lineages as a result of having evolved independently from each other.
+[126]For speciation to occur, there has to be reproductive isolation.
+[126]Reproductive isolation can result from incompatibilities between genes as described by Bateson–Dobzhansky–Muller model. 
+Reproductive isolation also tends to increase with genetic divergence. 
+Speciation can occur when there are physical barriers that divide an ancestral species, a process known as allopatric speciation.
+[126]In contrast, sympatric speciation occurs in the absence of physical barriers. 
+Pre-zygotic isolation such as mechanical, temporal, behavioral, habitat, and gametic isolations can prevent different species from hybridizing.
+[126]Similarly, post-zygotic isolations can result in hybridization being selected against due to the lower viability of hybrids or hybrid infertility (e.
+gmule). 
+Hybrid zones can emerge if there were to be incomplete reproductive isolation between two closely related species. 
+A phylogeny is an evolutionary history of a specific group of organisms or their genes.
+[127]It can be represented using a phylogenetic tree, which is a diagram showing lines of descent among organisms or their genes. 
+Each line drawn on the time axis of a tree represents a lineage of descendants of a particular species or population. 
+When a lineage divides into two, it is represented as a node (or split) on the phylogenetic tree. 
+The more splits there are over time, the more branches there will be on the tree, with the common ancestor of all the organisms in that tree being represented by the root of that tree. 
+Phylogenetic trees may portray the evolutionary history of all life forms, a major evolutionary group (e.
+ginsects), or an even smaller group of closely related species. 
+Within a tree, any group of species designated by a name is a taxon (e.
+ghumans, primates, mammals, or vertebrates) and a taxon that consists of all its evolutionary descendants is a clade, otherwise known as a monophyletic taxon.
+[127]Closely related species are referred to as sister species and closely related clades are sister clades. 
+In contrast to a monophyletic group, a polyphyletic group does not include its common ancestor whereas a paraphyletic group does not include all the descendants of a common ancestor.
+Phylogenetic trees are the basis for comparing and grouping different species.
+[127]Different species that share a feature inherited from a common ancestor are described as having homologous features (or synapomorphy).
+[128][129][127]Homologous features may be any heritable traits such as DNA sequence, protein structures, anatomical features, and behavior patterns. 
+A vertebral column is an example of a homologous feature shared by all vertebrate animals. 
+Traits that have a similar form or function but were not derived from a common ancestor are described as analogous features. 
+Phylogenies can be reconstructed for a group of organisms of primary interests, which are called the ingroup. 
+A species or group that is closely related to the ingroup but is phylogenetically outside of it is called the outgroup, which serves a reference point in the tree. 
+The root of the tree is located between the ingroup and the outgroup.
+[127]When phylogenetic trees are reconstructed, multiple trees with different evolutionary histories can be generated. 
+Based on the principle of Parsimony (or Occam's razor), the tree that is favored is the one with the fewest evolutionary changes needed to be assumed over all traits in all groups. 
+Computational algorithms can be used to determine how a tree might have evolved given the evidence.
+Phylogeny provides the basis of biological classification, which is based on Linnaean taxonomy that was developed by Carl Linnaeus in the 18th century.
+[127]This classification system is rank-based, with the highest rank being the domain followed by kingdom, phylum, class, order, family, genus, and species.
+[127]All organisms can be classified as belonging to one of three domains: Archaea (originally Archaebacteria); bacteria (originally eubacteria), or eukarya (includes the protist, fungi, plant, and animal kingdoms).
+[130]A binomial nomenclature is used to classify different species. 
+Based on this system, each species is given two names, one for its genus and another for its species.
+[127]For example, humans are Homo sapiens, with Homo being the genus and sapiens being the species. 
+By convention, the scientific names of organisms are italicized, with only the first letter of the genus capitalized.
+The history of life on Earth traces the processes by which organisms have evolved from the earliest emergence of life to present day. 
+Earth formed about 4.
+5billion years ago and all life on Earth, both living and extinct, descended from a last universal common ancestor that lived about 3.
+5billion years ago.
+[133][134]The dating of the Earth's history can be done using several geological methods such as stratigraphy, radiometric dating, and paleomagnetic dating.
+[135]Based on these methods, geologists have developed a geologic time scale that divides the history of the Earth into major divisions, starting with four eons (Hadean, Archean, Proterozoic, and Phanerozoic), the first three of which are collectively known as the Precambrian, which lasted approximately 4 billion years.
+[135]Each eon can be divided into eras, with the Phanerozoic eon that began 539 million years ago[136] being subdivided into Paleozoic, Mesozoic, and Cenozoic eras.
+[135]These three eras together comprise eleven periods (Cambrian, Ordovician, Silurian, Devonian, Carboniferous, Permian, Triassic, Jurassic, Cretaceous, Tertiary, and Quaternary) and each period into epochs.
+The similarities among all known present-day species indicate that they have diverged through the process of evolution from their common ancestor.
+[137]Biologists regard the ubiquity of the genetic code as evidence of universal common descent for all bacteria, archaea, and eukaryotes.
+[138][10][139][140]Microbal mats of coexisting bacteria and archaea were the dominant form of life in the early Archean epoch and many of the major steps in early evolution are thought to have taken place in this environment.
+[141]The earliest evidence of eukaryotes dates from 1.
+85billion years ago,[142][143] and while they may have been present earlier, their diversification accelerated when they started using oxygen in their metabolism. 
+Later, around 1.
+7billion years ago, multicellular organisms began to appear, with differentiated cells performing specialised functions.
+Algae-like multicellular land plants are dated back even to about 1 billion years ago,[145] although evidence suggests that microorganisms formed the earliest terrestrial ecosystems, at least 2.
+7billion years ago.
+[146]Microorganisms are thought to have paved the way for the inception of land plants in the Ordovician period. 
+Land plants were so successful that they are thought to have contributed to the Late Devonian extinction event.
+Ediacara biota appear during the Ediacaran period,[148] while vertebrates, along with most other modern phyla originated about 525 million years ago during the Cambrian explosion.
+[149]During the Permian period, synapsids, including the ancestors of mammals, dominated the land,[150] but most of this group became extinct in the Permian–Triassic extinction event 252 million years ago.
+[151]During the recovery from this catastrophe, archosaurs became the most abundant land vertebrates;[152] one archosaur group, the dinosaurs, dominated the Jurassic and Cretaceous periods.
+[153]After the Cretaceous–Paleogene extinction event 66 million years ago killed off the non-avian dinosaurs,[154] mammals increased rapidly in size and diversity.
+[155]Such mass extinctions may have accelerated evolution by providing opportunities for new groups of organisms to diversify.
+Bacteria are a type of cell that constitute a large domain of prokaryotic microorganisms. 
+Typically a few micrometers in length, bacteria have a number of shapes, ranging from spheres to rods and spirals. 
+Bacteria were among the first life forms to appear on Earth, and are present in most of its habitats. 
+Bacteria inhabit soil, water, acidic hot springs, radioactive waste,[157] and the deep biosphere of the earth's crust. 
+Bacteria also live in symbiotic and parasitic relationships with plants and animals. 
+Most bacteria have not been characterised, and only about 27 percent of the bacterial phyla have species that can be grown in the laboratory.
+Archaea constitute the other domain of prokaryotic cells and were initially classified as bacteria, receiving the name archaebacteria (in the Archaebacteria kingdom), a term that has fallen out of use.
+[159]Archaeal cells have unique properties separating them from the other two domains, Bacteria and Eukaryota. 
+Archaea are further divided into multiple recognized phyla. 
+Archaea and bacteria are generally similar in size and shape, although a few archaea have very different shapes, such as the flat and square cells of Haloquadratum walsbyi.
+[160]Despite this morphological similarity to bacteria, archaea possess genes and several metabolic pathways that are more closely related to those of eukaryotes, notably for the enzymes involved in transcription and translation. 
+Other aspects of archaeal biochemistry are unique, such as their reliance on ether lipids in their cell membranes,[161] including archaeols. 
+Archaea use more energy sources than eukaryotes: these range from organic compounds, such as sugars, to ammonia, metal ions or even hydrogen gas. 
+Salt-tolerant archaea (the Haloarchaea) use sunlight as an energy source, and other species of archaea fix carbon, but unlike plants and cyanobacteria, no known species of archaea does both. 
+Archaea reproduce asexually by binary fission, fragmentation, or budding; unlike bacteria, no known species of Archaea form endospores. 
+The first observed archaea were extremophiles, living in extreme environments, such as hot springs and salt lakes with no other organisms. 
+Improved molecular detection tools led to the discovery of archaea in almost every habitat, including soil, oceans, and marshlands. 
+Archaea are particularly numerous in the oceans, and the archaea in plankton may be one of the most abundant groups of organisms on the planet. 
+Archaea are a major part of Earth's life. 
+They are part of the microbiota of all organisms. 
+In the human microbiome, they are important in the gut, mouth, and on the skin.
+[162]Their morphological, metabolic, and geographical diversity permits them to play multiple ecological roles: carbon fixation; nitrogen cycling; organic compound turnover; and maintaining microbial symbiotic and syntrophic communities, for example.
+Eukaryotes are hypothesized to have split from archaea, which was followed by their endosymbioses with bacteria (or symbiogenesis) that gave rise to mitochondria and chloroplasts, both of which are now part of modern-day eukaryotic cells.
+[164]The major lineages of eukaryotes diversified in the Precambrian about 1.
+5billion years ago and can be classified into eight major clades: alveolates, excavates, stramenopiles, plants, rhizarians, amoebozoans, fungi, and animals.
+[164]Five of these clades are collectively known as protists, which are mostly microscopic eukaryotic organisms that are not plants, fungi, or animals.
+[164]While it is likely that protists share a common ancestor (the last eukaryotic common ancestor),[165] protists by themselves do not constitute a separate clade as some protists may be more closely related to plants, fungi, or animals than they are to other protists. 
+Like groupings such as algae, invertebrates, or protozoans, the protist grouping is not a formal taxonomic group but is used for convenience.
+[164][166]Most protists are unicellular, which are also known as microbial eukaryotes.
+The alveolates are mostly photosynthetic unicellular protists that possess sacs called alveoli (hence their name alveolates) that are located beneath their cell membrane, providing support for the cell surface.
+[164]Alveolates comprise several groups such as dinoflagellates, apicomplexans, and ciliates. 
+Dinoflagellates are photosynthetic and can be found in the ocean where they play a role as primary producers of organic matter.
+[164]Apicomplexans are parasitic alveolates that possess an apical complex, which is a group of organelles located in the apical end of the cell.
+[164]This complex allows apicomplexans to invade their hosts' tissues. 
+Ciliates are alveolates that possess numerous hair-like structure called cilia. 
+A defining characteristic of ciliates is the presence of two types of nuclei in each ciliate cell. 
+A commonly studied ciliate is the paramecium.
+The excavates are groups of protists that began to diversify approximately 1.
+5billion years ago shortly after the origin of the eukaryotes.
+[164]Some excavates do not possess mitochondria, which are thought to have been lost over the course of evolution as these protists still possess nuclear genes that are associated with mitochondria.
+[164]The excavates comprise several groups such as diplomonads, parabasalids, heteroloboseans, euglenids, and kinetoplastids.
+Stramenopiles, most of which can be characterized by the presence of tubular hairs on the longer of their two flagella, include diatoms and brown algae.
+[164]Diatoms are primary producers and contribute about one-fifth of all photosynthetic carbon fixation, making them a major component of phytoplankton.
+Rhizarians are mostly unicellular and aquatic protists that typically contain long, thin pseudopods.
+[164]The rhizarians comprise three main groups: cercozoans, foraminiferans, and radiolarians.
+Amoebozoans are protists with a body form characterized by the presence lobe-shaped pseudopods, which help them to move.
+[164]They include groups such as loboseans and slime molds (e.
+gplasmodial slime mold and cellular slime molds).
+Plants are mainly multicellular organisms, predominantly photosynthetic eukaryotes of the kingdom Plantae, which would exclude fungi and some algae. 
+A shared derived trait (or synapomorphy) of Plantae is the primary endosymbiosis of a cyanobacterium into an early eukaryote about one billion years ago, which gave rise to chloroplasts.
+[167]The first several clades that emerged following primary endosymbiosis were aquatic and most of the aquatic photosynthetic eukaryotic organisms are collectively described as algae, which is a term of convenience as not all algae are closely related.
+[167]Algae comprise several distinct clades such as glaucophytes, which are microscopic freshwater algae that may have resembled in form to the early unicellular ancestor of Plantae.
+[167]Unlike glaucophytes, the other algal clades such as red and green algae are multicellular. 
+Green algae comprise three major clades: chlorophytes, coleochaetophytes, and stoneworts.
+Land plants (embryophytes) first appeared in terrestrial environments approximately 450 to 500 million years ago.
+[167]A synapomorphy of land plants is an embryo that develops under the protection of tissues of its parent plant.
+[167]Land plants comprise ten major clades, seven of which constitute a single clade known as vascular plants (or tracheophytes) as they all have tracheids, which are fluid-conducting cells, and a well-developed system that transports materials throughout their bodies.
+[167]In contrast, the other three clades are nonvascular plants as they do not have tracheids.
+[167]They also do not constitute a single clade.
+Nonvascular plants include liverworts, mosses, and hornworts. 
+They tend to be found in areas where water is readily available.
+[167]Most live on soil or even on vascular plants themselves. 
+Some can grow on bare rock, tree trunks that are dead or have fallen, and even buildings.
+[167]Most nonvascular plants are terrestrial, with a few living in freshwater environments and none living in the oceans.
+The seven clades (or divisions) that make up vascular plants include horsetails and ferns, which together can be grouped as a single clade called monilophytes.
+[167]Seed plants (or spermatophyte) comprise the other five divisions, four of which are grouped as gymnosperms and one is angiosperms. 
+Gymnosperms includes conifers, cycads, Ginkgo, and gnetophytes. 
+Gymnosperm seeds develop either on the surface of scales or leaves, which are often modified to form cones, or solitary as in yew, Torreya, Ginkgo.
+[168]Angiosperms are the most diverse group of land plants, with 64 orders, 416 families, approximately 13,000 known genera and 300,000 known species.
+[169]Like gymnosperms, angiosperms are seed-producing plants. 
+They are distinguished from gymnosperms by having characteristics such as flowers, endosperm within their seeds, and production of fruits that contain the seeds. 
+Fungi are eukaryotic organisms that digest foods outside of their bodies.
+[170]They do so through a process called absorptive heterotrophy whereby they would first secrete digestive enzymes that break down large food molecules before absorbing them through their cell membranes. 
+Many fungi are also saprobes as they are able to take in nutrients from dead organic matter and are hence, the principal decomposers in ecological systems.
+[170]Some fungi are parasites by absorbing nutrients from living hosts while others are mutualists.
+[170]Fungi, along with two other lineages, choanoflagellates and animals, can be grouped as opisthokonts. 
+A synapomorphy that distinguishes fungi from other two opisthokonts is the presence of chitin in their cell walls.
+Most fungi are multicellular but some are unicellular such as yeasts, which live in liquid or moist environments and are able to absorb nutrients directly into their cell surfaces.
+[170]Multicellular fungi, on the other hand, have a body called mycelium, which is composed of a mass of individual tubular filaments called hyphae that allows for nutrient absorption to occur.
+Fungi can be divided into six major groups based on their life cycles: microsporidia, chytrids, zygospore fungi (Zygomycota), arbuscular mycorrhizal fungi (Glomeromycota), sac fungi (Ascomycota), and club fungi (Basidiomycota).
+[170]Fungi are classified by the particular processes of sexual reproduction they use. 
+The usual cellular products of meiosis during sexual reproduction are spores that are adapted to survive inclement times and to spread. 
+A principal adaptive benefit of meiosis during sexual reproduction in the Ascomycota and Basidiomycota was proposed to be the repair of DNA damage through meiotic recombination.
+The fungus kingdom encompasses an enormous diversity of taxa with varied ecologies, life cycle strategies, and morphologies ranging from unicellular aquatic chytrids to large mushrooms. 
+However, little is known of the true biodiversity of Kingdom Fungi, which has been estimated at 2.
+2 millionto 3.
+8 millionspecies.
+[172]Of these, only about 148,000 have been described,[173] with over 8,000 species known to be detrimental to plants and at least 300 that can be pathogenic to humans.
+Animals are multicellular eukaryotic organisms that form the kingdom Animalia. 
+With few exceptions, animals consume organic material, breathe oxygen, are able to move, can reproduce sexually, and grow from a hollow sphere of cells, the blastula, during embryonic development. 
+Over 1.
+5million living animal species have been described—of which around 1 million are insects—but it has been estimated there are over 7 million animal species in total. 
+They have complex interactions with each other and their environments, forming intricate food webs. 
+Animals can be distinguished into two groups based on their developmental characteristics.
+[175]For instance, embryos of diploblastic animals such as ctenophores, placeozoans, and cnidarians have two cell layers (ectoderm and endoderm) whereas the embryos of triploblastic animals have three tissue layers (ectoderm, mesoderm, and endoderm), which is a synapomorphy of these animals.
+[175]Triploblastic animals can be further divided into two major clades based on based on the pattern of gastrulation, whereby a cavity called a blastopore is formed from the indentation of a blastula. 
+In protostomes, the blastopore gives rise to the mouth, which is then followed by the formation of the anus.
+[175]In deuterostomes, the blastopore gives rise to the anus, followed by the formation of the mouth.
+Animals can also be differentiated based on their body plan, specifically with respect to four key features: symmetry, body cavity, segmentation, and appendages.
+[175]The bodies of most animals are symmetrical, with symmetry being either radial or bilateral.
+[175]Triploblastic animals can be divided into three types based on their body cavity: acoelomate, pseudocoelomate, and coelomate.
+[175]Segmentation can be observed in the bodies of many animals, which allows for specialization of different parts of the body as well as allowing the animal to change the shape of its body to control its movements.
+[175]Finally, animals can be distinguished based on the type and location of their appendages such as antennae for sensing the environment or claws for capturing prey.
+Sponges, the members of the phylum Porifera, are a basal Metazoa (animal) clade as a sister of the diploblasts.
+[176][177][178][179][180]They are multicellular organisms that have bodies full of pores and channels allowing water to circulate through them, consisting of jelly-like mesohyl sandwiched between two thin layers of cells. 
+The majority (~97%) of animal species are invertebrates,[181] which are animals that do not have a vertebral column (or backbone or spine), derived from the notochord. 
+This includes all animals apart from the subphylum Vertebrata. 
+Familiar examples of invertebrates include sponges, cnidarians (hydras, jellyfishes, sea anemones, and corals), mollusks (chitons, snail, bivalves, squids, and octopuses), annelids (earthworms and leeches), and arthropods (insects, arachnids, crustaceans, and myriapods). 
+Many invertebrate taxa have a greater number and variety of species than the entire subphylum of Vertebrata.
+In contrast, vertebrates comprise all species of animals within the subphylum Vertebrata, which are chordates with vertebral columns. 
+These animals have four key features, which are an anterior skull with a brain, a rigid internal skeleton supported by a vertebral column that encloses a spinal cord, internal organs suspended in a coelom, and a well-developed circulatory system driven by a single large heart.
+[175]Vertebrates represent the overwhelming majority of the phylum Chordata, with currently about 69,963 species described.
+[183]Vertebrates comprise different major groups that include jawless fishes (not including hagfishes), jawed vertebrates such as cartilaginous fishes (sharks, rays, and ratfish), bony fishes, tetrapods such as amphibians, reptiles, birds, and mammals.
+The two remaining groups of jawless fishes that have survived beyond the Devonian period are hagfishes and lamprey, which are collectively known as cyclostomes (for circled mouths).
+[175]Both groups of animals have elongated eel-like bodies with no paired fins.
+[175]However, because hagfishes have a weak circulatory system with three accessory hearts, a partial skull with no cerebellum, no jaws or stomach, and no jointed vertebrae, some biologists do not classify them as vertebrates but instead as a sister group of vertebrates.
+[175]In contrast, lampreys have a complete skull and a distinct vertebrae that is cartilaginous.
+Mammals have four key features that distinguish them from other animals such as sweat glands, mammary glands, hair, and a four-chambered heart.
+[175]Small and medium-sized mammals used to co-exist with large dinosaurs in much of the Mesozoic era but soon radiated following the mass extinction of dinosaurs at the end of the Cretaceous period.
+[175]There are approximately 57,000 mammal species, which can be divided into two primary groups: prototherians and therians. 
+Prototherians do not possess nipples on their mammary but instead secrete milk onto their skin, allowing their offspring to lap if off their furs.
+[175]They also lack a placenta, lays eggs, and have sprawling legs. 
+Currently, there only five known species of prototherians (platypus and four species of echidnas).
+[175]The therian clade is viviparous and can be further divided into two groups: marsupials and eutherians.
+[175]Marsupial females have a ventral pouch to carry and feed their offspring. 
+Eutherians form the majority of mammals and include major groups such as rodents, bats, even-toed ungulates and cetaceans, shrews and moles, primates, carnivores, rabbits, African insectivores, spiny insectivores, armadillos, treeshrews, odd-toed ungulates, long-nosed insectivores, anteaters and sloths, pangolins, hyraxes, sirenians, elephants, colugos, and aardvark.
+A split in the primate lineage occurred approximately 90 million years ago during the Cretaceous, which brought about two major clades: prosimians and anthropoids.
+[175]The prosimians include lemurs, lorises, and galagos whereas the anthropoids comprise tarsiers, New World monkeys, Old World monkeys, and apes.
+[175]Apes separated from Old World monkeys about 35 million years ago, with various species living in Africa, Europe, and Asia between 22 and 5.
+5million years ago.
+[175]The modern descendants of these animals include chimpanzees and gorillas in Africa, gibbons and orangutans in Asia, and humans worldwide. 
+A split in the ape lineage occurred about six million years ago in Africa, which resulted in the emergence of chimpanzees as one group and a hominid clade as another group that includes humans and their extinct relatives.
+[175]Bipedalism emerged in the earliest protohominids known as ardipithecines. 
+As an adaptation, bipedalism conferred three advantages. 
+First, it enabled the ardipithecines to use their forelimbs to manipulate and carry objects while working.
+[175]Second, it elevated the animal's eyes to spot preys or predators over tall vegetation.
+[175]Finally, bipedalism is more energetically efficient than quadrupedal locomotion.
+Viruses are submicroscopic infectious agents that replicate inside the cells of organisms.
+[184]Viruses infect all types of life forms, from animals and plants to microorganisms, including bacteria and archaea.
+[185][186]More than 6,000 virus species have been described in detail.
+[187]Viruses are found in almost every ecosystem on Earth and are the most numerous type of biological entity.
+When infected, a host cell is forced to rapidly produce thousands of identical copies of the original virus. 
+When not inside an infected cell or in the process of infecting a cell, viruses exist in the form of independent particles, or virions, consisting of the genetic material (DNA or RNA), a protein coat called capsid, and in some cases an outside envelope of lipids. 
+The shapes of these virus particles range from simple helical and icosahedral forms to more complex structures. 
+Most virus species have virions too small to be seen with an optical microscope, as they are one-hundredth the size of most bacteria. 
+The origins of viruses in the evolutionary history of life are unclear: some may have evolved from plasmids—pieces of DNA that can move between cells—while others may have evolved from bacteria. 
+In evolution, viruses are an important means of horizontal gene transfer, which increases genetic diversity in a way analogous to sexual reproduction.
+[190]Because viruses possess some but not all characteristics of life, they have been described as "organisms at the edge of life",[191] and as self-replicators.
+Viruses can spread in many ways. 
+One transmission pathway is through disease-bearing organisms known as vectors: for example, viruses are often transmitted from plant to plant by insects that feed on plant sap, such as aphids; and viruses in animals can be carried by blood-sucking insects. 
+Influenza viruses are spread by coughing and sneezing. 
+Norovirus and rotavirus, common causes of viral gastroenteritis, are transmitted by the faecal–oral route, passed by hand-to-mouth contact or in food or water. 
+Viral infections in animals provoke an immune response that usually eliminates the infecting virus. 
+Immune responses can also be produced by vaccines, which confer an artificially acquired immunity to the specific viral infection. 
+The plant body is made up of organs that can be organized into two major organ systems: a root system and a shoot system.
+[193]The root system anchors the plants into place. 
+The roots themselves absorb water and minerals and store photosynthetic products. 
+The shoot system is composed of stem, leaves, and flowers. 
+The stems hold and orient the leaves to the sun, which allow the leaves to conduct photosynthesis. 
+The flowers are shoots that have been modified for reproduction. 
+Shoots are composed of phytomers, which are functional units that consist of a node carrying one or more leaves, internode, and one or more buds. 
+A plant body has two basic patterns (apical–basal and radial axes) that been established during embryogenesis.
+[193]Cells and tissues are arranged along the apical-basal axis from root to shoot whereas the three tissue systems (dermal, ground, and vascular) that make up a plant's body are arranged concentrically around its radial axis.
+[193]The dermal tissue system forms the epidermis (or outer covering) of a plant, which is usually a single cell layer that consists of cells that have differentiated into three specialized structures: stomata for gas exchange in leaves, trichomes (or leaf hair) for protection against insects and solar radiation, and root hairs for increased surface areas and absorption of water and nutrients. 
+The ground tissue makes up virtually all the tissue that lies between the dermal and vascular tissues in the shoots and roots. 
+It consists of three cell types: Parenchyma, collenchyma, and sclerenchyma cells. 
+Finally, the vascular tissues are made up of two constituent tissues: xylem and phloem. 
+The xylem is made up of two conducting cells called tracheids and vessel elements whereas the phloem is characterized by the presence of sieve tube elements and companion cells.
+Like all other organisms, plants are primarily made up of water and other molecules containing elements that are essential to life.
+[194]The absence of specific nutrients (or essential elements), many of which have been identified in hydroponic experiments, can disrupt plant growth and reproduction. 
+The majority of plants are able to obtain these nutrients from solutions that surrounds their roots in the soil.
+[194]Continuous leaching and harvesting of crops can deplete the soil of its nutrients, which can be restored with the use of fertilizers. 
+Carnivorous plants such as Venus flytraps are able to obtain nutrients by digesting other arthropods whereas parasitic plants such as mistletoes can parasitize other plants for water and nutrients. 
+Plants need water to conduct photosynthesis, transport solutes between organs, cool their leaves by evaporation, and maintain internal pressures that support their bodies.
+[194]Water is able to diffuse in and out of plant cells by osmosis. 
+The direction of water movement across a semipermeable membrane is determined by the water potential across that membrane.
+[194]Water is able to diffuse across a root cell's membrane through aquaporins whereas solutes are transported across by the membrane by ion channels and pumps. 
+In vascular plants, water and solutes are able to enter the xylem, a vascular tissue, by way of an apoplast and symplast. 
+Once in the xylem, the water and minerals are distributed upward by transpiration from the soil to the aerial parts of the plant.
+[167][194]In contrast, the phloem, another vascular tissue, distributes carbohydrates (e.
+gsucrose) and other solutes such as hormones by translocation from a source (e.
+gmature leaf or root) in which they were produced to a sink (e.
+groot, flower, or developing fruit) in which they will be used and stored.
+[194]Sources and sinks can switch roles, depending on the amount of carbohydrates accumulated or mobilized for the nourishment of other organs. 
+Plant development is regulated by environmental cues and the plant's own receptors, hormones, and genome.
+[195]Morever, they have several characteristics that allow them to obtain resources for growth and reproduction such as meristems, post-embryonic organ formation, and differential growth. 
+Development begins with a seed, which is an embryonic plant enclosed in a protective outer covering. 
+Most plant seeds are usually dormant, a condition in which the seed's normal activity is suspended.
+[195]Seed dormancy may last may last weeks, months, years, and even centuries. 
+Dormancy is broken once conditions are favorable for growth, and the seed will begin to sprout, a process called germination. 
+Imbibition is the first step in germination, whereby water is absorbed by the seed. 
+Once water is absorbed, the seed undergoes metabolic changes whereby enzymes are activated and RNA and proteins are synthesized. 
+Once the seed germinates, it obtains carbohydrates, amino acids, and small lipids that serve as building blocks for its development. 
+These monomers are obtained from the hydrolysis of starch, proteins, and lipids that are stored in either the cotyledons or endosperm. 
+Germination is completed once embryonic roots called radicle have emerged from the seed coat. 
+At this point, the developing plant is called a seedling and its growth is regulated by its own photoreceptor proteins and hormones.
+Unlike animals in which growth is determinate, i.
+eceases when the adult state is reached, plant growth is indeterminate as it is an open-ended process that could potentially be lifelong.
+[193]Plants grow in two ways: primary and secondary. 
+In primary growth, the shoots and roots are formed and lengthened. 
+The apical meristem produces the primary plant body, which can be found in all seed plants. 
+During secondary growth, the thickness of the plant increases as the lateral meristem produces the secondary plant body, which can be found in woody eudicots such as trees and shrubs. 
+Monocots do not go through secondary growth.
+[193]The plant body is generated by a hierarchy of meristems. 
+The apical meristems in the root and shoot systems give rise to primary meristems (protoderm, ground meristem, and procambium), which in turn, give rise to the three tissue systems (dermal, ground, and vascular). 
+Most angiosperms (or flowering plants) engage in sexual reproduction.
+[196]Their flowers are organs that facilitate reproduction, usually by providing a mechanism for the union of sperm with eggs. 
+Flowers may facilitate two types of pollination: self-pollination and cross-pollination. 
+Self-pollination occurs when the pollen from the anther is deposited on the stigma of the same flower, or another flower on the same plant. 
+Cross-pollination is the transfer of pollen from the anther of one flower to the stigma of another flower on a different individual of the same species. 
+Self-pollination happened in flowers where the stamen and carpel mature at the same time, and are positioned so that the pollen can land on the flower's stigma. 
+This pollination does not require an investment from the plant to provide nectar and pollen as food for pollinators.
+Like animals, plants produce hormones in one part of its body to signal cells in another part to respond. 
+The ripening of fruit and loss of leaves in the winter are controlled in part by the production of the gas ethylene by the plant. 
+Stress from water loss, changes in air chemistry, or crowding by other plants can lead to changes in the way a plant functions. 
+These changes may be affected by genetic, chemical, and physical factors. 
+To function and survive, plants produce a wide array of chemical compounds not found in other organisms. 
+Because they cannot move, plants must also defend themselves chemically from herbivores, pathogens and competition from other plants. 
+They do this by producing toxins and foul-tasting or smelling chemicals. 
+Other compounds defend plants against disease, permit survival during drought, and prepare plants for dormancy, while other compounds are used to attract pollinators or herbivores to spread ripe seeds. 
+Many plant organs contain different types of photoreceptor proteins, each of which reacts very specifically to certain wavelengths of light.
+[198]The photoreceptor proteins relay information such as whether it is day or night, duration of the day, intensity of light available, and the source of light. 
+Shoots generally grow towards light, while roots grow away from it, responses known as phototropism and skototropism, respectively. 
+They are brought about by light-sensitive pigments like phototropins and phytochromes and the plant hormone auxin.
+[199]Many flowering plants bloom at the appropriate time because of light-sensitive compounds that respond to the length of the night, a phenomenon known as photoperiodism. 
+In addition to light, plants can respond to other types of stimuli. 
+For instance, plants can sense the direction of gravity to orient themselves correctly. 
+They can respond to mechanical stimulation.
+The cells in each animal body are bathed in interstitial fluid, which make up the cell's environment. 
+This fluid and all its characteristics (e.
+gtemperature, ionic composition) can be described as the animal's internal environment, which is in contrast to the external environment that encompasses the animal's outside world.
+[201]Animals can be classified as either regulators or conformers. 
+Animals such as mammals and birds are regulators as they are able to maintain a constant internal environment such as body temperature despite their environments changing. 
+These animals are also described as homeotherms as they exhibit thermoregulation by keeping their internal body temperature constant. 
+In contrast, animals such as fishes and frogs are conformers as they adapt their internal environment (e.
+gbody temperature) to match their external environments. 
+These animals are also described as poikilotherms or ectotherms as they allow their body temperatures to match their external environments. 
+In terms of energy, regulation is more costly than conformity as an animal expands more energy to maintain a constant internal environment such as increasing its basal metabolic rate, which is the rate of energy consumption.
+[201]Similarly, homeothermy is more costly than poikilothermy. 
+Homeostasis is the stability of an animal's internal environment, which is maintained by negative feedback loops.
+The body size of terrestrial animals vary across different species but their use of energy does not scale linearly according to their size.
+[201]Mice, for example, are able to consume three times more food than rabbits in proportion to their weights as the basal metabolic rate per unit weight in mice is greater than in rabbits.
+[201]Physical activity can also increase an animal's metabolic rate. 
+When an animal runs, its metabolic rate increases linearly with speed.
+[201]However, the relationship is non-linear in animals that swim or fly. 
+When a fish swims faster, it encounters greater water resistance and so its metabolic rates increases exponential.
+[201]Alternatively, the relationship of flight speeds and metabolic rates is U-shaped in birds.
+[201]At low flight speeds, a bird must maintain a high metabolic rates to remain airborne. 
+As it speeds up its flight, its metabolic rate decreases with the aid of air rapidly flows over its wings. 
+However, as it increases in its speed even further, its high metabolic rates rises again due to the increased effort associated with rapid flight speeds. 
+Basal metabolic rates can be measured based on an animal's rate of heat production. 
+An animal's body fluids have three properties: osmotic pressure, ionic composition, and volume.
+[203]Osmotic pressures determine the direction of the diffusion of water (or osmosis), which moves from a region where osmotic pressure (total solute concentration) is low to a region where osmotic pressure (total solute concentration) is high. 
+Aquatic animals are diverse with respect to their body fluid compositions and their environments. 
+For example, most invertebrate animals in the ocean have body fluids that are isosmotic with seawater. 
+In contrast, ocean bony fishes have body fluids that are hyposmotic to seawater. 
+Finally, freshwater animals have body fluids that are hyperosmotic to fresh water. 
+Typical ions that can be found in an animal's body fluids are sodium, potassium, calcium, and chloride. 
+The volume of body fluids can be regulated by excretion. 
+Vertebrate animals have kidneys, which are excretory organs made up of tiny tubular structures called nephrons, which make urine from blood plasma. 
+The kidneys' primary function is to regulate the composition and volume of blood plasma by selectively removing material from the blood plasma itself. 
+The ability of xeric animals such as kangaroo rats to minimize water loss by producing urine that is 10–20 times concentrated than their blood plasma allows them to adapt in desert environments that receive very little precipitation.
+Animals are heterotrophs as they feed on other organisms to obtain energy and organic compounds.
+[204]They are able to obtain food in three major ways such as targeting visible food objects, collecting tiny food particles, or depending on microbes for critical food needs. 
+The amount of energy stored in food can be quantified based on the amount of heat (measured in calories or kilojoules) emitted when the food is burnt in the presence of oxygen. 
+If an animal were to consume food that contains an excess amount of chemical energy, it will store most of that energy in the form of lipids for future use and some of that energy as glycogen for more immediate use (e.
+gmeeting the brain's energy needs).
+[204]The molecules in food are chemical building blocks that are needed for growth and development. 
+These molecules include nutrients such as carbohydrates, fats, and proteins. 
+Vitamins and minerals (e.
+gcalcium, magnesium, sodium, and phosphorus) are also essential. 
+The digestive system, which typically consist of a tubular tract that extends from the mouth to the anus, is involved in the breakdown (or digestion) of food into small molecules as it travels down peristaltically through the gut lumen shortly after it has been ingested. 
+These small food molecules are then absorbed into the blood from the lumen, where they are then distributed to the rest of the body as building blocks (e.
+gamino acids) or sources of energy (e.
+gglucose).
+In addition to their digestive tracts, vertebrate animals have accessory glands such as a liver and pancreas as part of their digestive systems.
+[204]The processing of food in these animals begins in the foregut, which includes the mouth, esophagus, and stomach. 
+Mechanical digestion of food starts in the mouth with the esophagus serving as a passageway for food to reach the stomach, where it is stored and disintegrated (by the stomach's acid) for further processing. 
+Upon leaving the stomach, food enters into the midgut, which is the first part of the intestine (or small intestine in mammals) and is the principal site of digestion and absorption. 
+Food that does not get absorbed are stored as indigestible waste (or feces) in the hindgut, which is the second part of the intestine (or large intestine in mammals). 
+The hindgut then completes the reabsorption of needed water and salt prior to eliminating the feces from the rectum.
+The respiratory system consists of specific organs and structures used for gas exchange in animals. 
+The anatomy and physiology that make this happen varies greatly, depending on the size of the organism, the environment in which it lives and its evolutionary history. 
+In land animals the respiratory surface is internalized as linings of the lungs.
+[205]Gas exchange in the lungs occurs in millions of small air sacs; in mammals and reptiles these are called alveoli, and in birds they are known as atria. 
+These microscopic air sacs have a very rich blood supply, thus bringing the air into close contact with the blood.
+[206]These air sacs communicate with the external environment via a system of airways, or hollow tubes, of which the largest is the trachea, which branches in the middle of the chest into the two main bronchi. 
+These enter the lungs where they branch into progressively narrower secondary and tertiary bronchi that branch into numerous smaller tubes, the bronchioles. 
+In birds the bronchioles are termed parabronchi. 
+It is the bronchioles, or parabronchi that generally open into the microscopic alveoli in mammals and atria in birds. 
+Air has to be pumped from the environment into the alveoli or atria by the process of breathing, which involves the muscles of respiration. 
+A circulatory system usually consists of a muscular pump such as a heart, a fluid (blood), and system of blood vessels that deliver it.
+[207][208]Its principal function is to transport blood and other substances to and from cells and tissues. 
+There are two types of circulatory systems: open and closed. 
+In open circulatory systems, blood exits blood vessels as it circulates throughout the body whereas in closed circulatory system, blood is contained within the blood vessels as it circulates. 
+Open circulatory systems can be observed in invertebrate animals such as arthropods (e.
+ginsects, spiders, and lobsters) whereas closed circulatory systems can be found in vertebrate animals such as fishes, amphibians, and mammals. 
+Circulation in animals occur between two types of tissues: systemic tissues and breathing (or pulmonary) organs.
+[207]Systemic tissues are all the tissues and organs that make up an animal's body other than its breathing organs. 
+Systemic tissues take up oxygen but adds carbon dioxide to the blood whereas a breathing organs takes up carbon dioxide but add oxygen to the blood.
+[209]In birds and mammals, the systemic and pulmonary systems are connected in series. 
+In the circulatory system, blood is important because it is the means by which oxygen, carbon dioxide, nutrients, hormones, agents of immune system, heat, wastes, and other commodities are transported.
+[207]In annelids such as earthworms and leeches, blood is propelled by peristaltic waves of contractions of the heart muscles that make up the blood vessels. 
+Other animals such as crustaceans (e.
+gcrayfish and lobsters), have more than one heart to propel blood throughout their bodies. 
+Vertebrate hearts are multichambered and are able to pump blood when their ventricles contract at each cardiac cycle, which propels blood through the blood vessels.
+[207]Although vertebrate hearts are myogenic, their rate of contraction (or heart rate) can be modulated by neural input from the body's autonomic nervous system. 
+In vertebrates, the muscular system consists of skeletal, smooth and cardiac muscles. 
+It permits movement of the body, maintains posture and circulates blood throughout the body.
+[210]Together with the skeletal system, it forms the musculoskeletal system, which is responsible for the movement of vertebrate animals.
+[211]Skeletal muscle contractions are neurogenic as they require synaptic input from motor neurons. 
+A single motor neuron is able to innervate multiple muscle fibers, thereby causing the fibers to contract at the same time. 
+Once innervated, the protein filaments within each skeletal muscle fiber slide past each other to produce a contraction, which is explained by the sliding filament theory. 
+The contraction produced can be described as a twitch, summation, or tetanus, depending on the frequency of action potentials. 
+Unlike skeletal muscles, contractions of smooth and cardiac muscles are myogenic as they are initiated by the smooth or heart muscle cells themselves instead of a motor neuron. 
+Nevertheless, the strength of their contractions can be modulated by input from the autonomic nervous system. 
+The mechanisms of contraction are similar in all three muscle tissues. 
+In invertebrates such as earthworms and leeches, circular and longitudinal muscles cells form the body wall of these animals and are responsible for their movement.
+[212]In an earthworm that is moving through a soil, for example, contractions of circular and longitudinal muscles occur reciprocally while the coelomic fluid serves as a hydroskeleton by maintaining turgidity of the earthworm.
+[213]Other animals such as mollusks, and nematodes, possess obliquely striated muscles, which contain bands of thick and thin filaments that are arranged helically rather than transversely, like in vertebrate skeletal or cardiac muscles.
+[214]Advanced insects such as wasps, flies, bees, and beetles possess asynchronous muscles that constitute the flight muscles in these animals.
+[214]These flight muscles are often called fibrillar muscles because they contain myofibrils that are thick and conspicuous.
+Most multicellular animals have nervous systems[217] that allow them to sense from and respond to their environments. 
+A nervous system is a network of cells that processes sensory information and generates behaviors. 
+At the cellular level, the nervous system is defined by the presence of neurons, which are cells specialized to handle information.
+[218]They can transmit or receive information at sites of contacts called synapses.
+[218]More specifically, neurons can conduct nerve impulses (or action potentials) that travel along their thin fibers called axons, which can then be transmitted directly to a neighboring cell through electrical synapses or cause chemicals called neurotransmitters to be released at chemical synapses. 
+According to the sodium theory, these action potentials can be generated by the increased permeability of the neuron's cell membrane to sodium ions.
+[219]Cells such as neurons or muscle cells may be excited or inhibited upon receiving a signal from another neuron. 
+The connections between neurons can form neural pathways, neural circuits, and larger networks that generate an organism's perception of the world and determine its behavior. 
+Along with neurons, the nervous system contains other specialized cells called glia or glial cells, which provide structural and metabolic support. 
+In vertebrates, the nervous system comprises the central nervous system (CNS), which includes the brain and spinal cord, and the peripheral nervous system (PNS), which consists of nerves that connect the CNS to every other part of the body. 
+Nerves that transmit signals from the CNS are called motor nerves or efferent nerves, while those nerves that transmit information from the body to the CNS are called sensory nerves or afferent nerves. 
+Spinal nerves are mixed nerves that serve both functions. 
+The PNS is divided into three separate subsystems, the somatic, autonomic, and enteric nervous systems. 
+Somatic nerves mediate voluntary movement. 
+The autonomic nervous system is further subdivided into the sympathetic and the parasympathetic nervous systems. 
+The sympathetic nervous system is activated in cases of emergencies to mobilize energy, while the parasympathetic nervous system is activated when organisms are in a relaxed state. 
+The enteric nervous system functions to control the gastrointestinal system. 
+Both autonomic and enteric nervous systems function involuntarily. 
+Nerves that exit directly from the brain are called cranial nerves while those exiting from the spinal cord are called spinal nerves. 
+Many animals have sense organs that can detect their environment. 
+These sense organs contain sensory receptors, which are sensory neurons that convert stimuli into electrical signals.
+[220]Mechanoreceptors, for example, which can be found in skin, muscle, and hearing organs, generate action potentials in response to changes in pressures.
+[220][221]Photoreceptor cells such as rods and cones, which are part of the vertebrate retina, can respond to specific wavelengths of light.
+[220][221]Chemoreceptors detect chemicals in the mouth (taste) or in the air (smell).
+Hormones are signaling molecules transported in the blood to distant organs to regulate their function.
+[222][223]Hormones are secreted by internal glands that are part of an animal's endocrine system. 
+In vertebrates, the hypothalamus is the neural control center for all endocrine systems. 
+In humans specifically, the major endocrine glands are the thyroid gland and the adrenal glands. 
+Many other organs that are part of other body systems have secondary endocrine functions, including bone, kidneys, liver, heart and gonads. 
+For example, kidneys secrete the endocrine hormone erythropoietin. 
+Hormones can be amino acid complexes, steroids, eicosanoids, leukotrienes, or prostaglandins.
+[224]The endocrine system can be contrasted to both exocrine glands, which secrete hormones to the outside of the body, and paracrine signaling between cells over a relatively short distance. 
+Endocrine glands have no ducts, are vascular, and commonly have intracellular vacuoles or granules that store their hormones. 
+In contrast, exocrine glands, such as salivary glands, sweat glands, and glands within the gastrointestinal tract, tend to be much less vascular and have ducts or a hollow lumen. 
+Animals can reproduce in one of two ways: asexual and sexual. 
+Nearly all animals engage in some form of sexual reproduction.
+[225]They produce haploid gametes by meiosis. 
+The smaller, motile gametes are spermatozoa and the larger, non-motile gametes are ova.
+[226]These fuse to form zygotes,[227] which develop via mitosis into a hollow sphere, called a blastula. 
+In sponges, blastula larvae swim to a new location, attach to the seabed, and develop into a new sponge.
+[228]In most other groups, the blastula undergoes more complicated rearrangement.
+[229]It first invaginates to form a gastrula with a digestive chamber and two separate germ layers, an external ectoderm and an internal endoderm.
+[230]In most cases, a third germ layer, the mesoderm, also develops between them.
+[231]These germ layers then differentiate to form tissues and organs.
+[232]Some animals are capable of asexual reproduction, which often results in a genetic clone of the parent. 
+This may take place through fragmentation; budding, such as in Hydra and other cnidarians; or parthenogenesis, where fertile eggs are produced without mating, such as in aphids.
+[233][234]Animaldevelopment begins with the formation of a zygote that results from the fusion of a sperm and egg during fertilization.
+[235]The zygote undergoes a rapid multiple rounds of mitotic cell period of cell divisions called cleavage, which forms a ball of similar cells called a blastula. 
+Gastrulation occurs, whereby morphogenetic movements convert the cell mass into a three germ layers that comprise the ectoderm, mesoderm and endoderm. 
+The end of gastrulation signals the beginning of organogenesis, whereby the three germ layers form the internal organs of the organism.
+[236]The cells of each of the three germ layers undergo differentiation, a process where less-specialized cells become more-specialized through the expression of a specific set of genes. 
+Cellular differentiation is influenced by extracellular signals such as growth factors that are exchanged to adjacent cells, which is called juxtracrine signaling, or to neighboring cells over short distances, which is called paracrine signaling.
+[237][238]Intracellular signals consist of a cell signaling itself (autocrine signaling), also play a role in organ formation. 
+These signaling pathways allows for cell rearrangement and ensures that organs form at specific sites within the organism.
+The immune system is a network of biological processes that detects and responds to a wide variety of pathogens. 
+Many species have two major subsystems of the immune system. 
+The innate immune system provides a preconfigured response to broad groups of situations and stimuli. 
+The adaptive immune system provides a tailored response to each stimulus by learning to recognize molecules it has previously encountered. 
+Both use molecules and cells to perform their functions. 
+Nearly all organisms have some kind of immune system. 
+Bacteria have a rudimentary immune system in the form of enzymes that protect against virus infections. 
+Other basic immune mechanisms evolved in ancient plants and animals and remain in their modern descendants. 
+These mechanisms include phagocytosis, antimicrobial peptides called defensins, and the complement system. 
+Jawed vertebrates, including humans, have even more sophisticated defense mechanisms, including the ability to adapt to recognize pathogens more efficiently. 
+Adaptive (or acquired) immunity creates an immunological memory leading to an enhanced response to subsequent encounters with that same pathogen. 
+This process of acquired immunity is the basis of vaccination. 
+Behaviors play a central a role in animals' interaction with each other and with their environment.
+[240]They are able to use their muscles to approach one another, vocalize, seek shelter, and migrate. 
+An animal's nervous system activates and coordinates its behaviors. 
+Fixed action patterns, for instance, are genetically determined and stereotyped behaviors that occur without learning.
+[240][241]These behaviors are under the control of the nervous system and can be quite elaborate.
+[240]Examples include the pecking of kelp gull chicks at the red dot on their mother's beak. 
+Other behaviors that have emerged as a result of natural selection include foraging, mating, and altruism.
+[242]In addition to evolved behavior, animals have evolved the ability to learn by modifying their behaviors as a result of early individual experiences.
+Ecology is the study of the distribution and abundance of life, the interaction between organisms and their environment.
+The community of living (biotic) organisms in conjunction with the nonliving (abiotic) components (e.
+gwater, light, radiation, temperature, humidity, atmosphere, acidity, and soil) of their environment is called an ecosystem.
+[244][245][246]These biotic and abiotic components are linked together through nutrient cycles and energy flows.
+[247]Energy from the sun enters the system through photosynthesis and is incorporated into plant tissue. 
+By feeding on plants and on one another, animals play an important role in the movement of matter and energy through the system. 
+They also influence the quantity of plant and microbial biomass present. 
+By breaking down dead organic matter, decomposers release carbon back to the atmosphere and facilitate nutrient cycling by converting nutrients stored in dead biomass back to a form that can be readily used by plants and other microbes.
+The Earth's physical environment is shaped by solar energy and topography.
+[246]The amount of solar energy input varies in space and time due to the spherical shape of the Earth and its axial tilt. 
+Variation in solar energy input drives weather and climate patterns. 
+Weather is the day-to-day temperature and precipitation activity, whereas climate is the long-term average of weather, typically averaged over a period of 30 years.
+[249][250]Variation in topography also produces environmental heterogeneity. 
+On the windward side of a mountain, for example, air rises and cools, with water changing from gaseous to liquid or solid form, resulting in precipitation such as rain or snow.
+[246]As a result, wet environments allow for lush vegetation to grow. 
+In contrast, conditions tend to be dry on the leeward side of a mountain due to the lack of precipitation as air descends and warms, and moisture remains as water vapor in the atmosphere. 
+Temperature and precipitation are the main factors that shape terrestrial biomes. 
+A population is the number of organisms of the same species that occupy an area and reproduce from generation to generation.
+[251][252][253][254][255]Its abundance can be measured using population density, which is the number of individuals per unit area (e.
+gland or tree) or volume (e.
+gsea or air).
+[251]Given that it is usually impractical to count every individual within a large population to determine its size, population size can be estimated by multiplying population density by the area or volume. 
+Population growth during short-term intervals can be determined using the population growth rate equation, which takes into consideration birth, death, and immigration rates. 
+In the longer term, the exponential growth of a population tends to slow down as it reaches its carrying capacity, which can be modeled using the logistic equation.
+[252]The carrying capacity of an environment is the maximum population size of a species that can be sustained by that specific environment, given the food, habitat, water, and other resources that are available.
+[256]The carrying capacity of a population can be affected by changing environmental conditions such as changes in the availability resources and the cost of maintaining them. 
+In human populations, new technologies such as the Green revolution have helped increase the Earth's carrying capacity for humans over time, which has stymied the attempted predictions of impending population decline, the famous of which was by Thomas Malthus in the 18th century.
+A community is a group of populations of two or more different species occupying the same geographical area at the same time. 
+A biological interaction is the effect that a pair of organisms living together in a community have on each other. 
+They can be either of the same species (intraspecific interactions), or of different species (interspecific interactions). 
+These effects may be short-term, like pollination and predation, or long-term; both often strongly influence the evolution of the species involved. 
+A long-term interaction is called a symbiosis. 
+Symbioses range from mutualism, beneficial to both partners, to competition, harmful to both partners.
+Every species participates as a consumer, resource, or both in consumer–resource interactions, which form the core of food chains or food webs.
+[259]There are different trophic levels within any food web, with the lowest level being the primary producers (or autotrophs) such as plants and algae that convert energy and inorganic material into organic compounds, which can then be used by the rest of the community.
+[53][260][261]At the next level are the heterotrophs, which are the species that obtain energy by breaking apart organic compounds from other organisms.
+[259]Heterotrophs that consume plants are primary consumers (or herbivores) whereas heterotrophs that consume herbivores are secondary consumers (or carnivores). 
+And those that eat secondary consumers are tertiary consumers and so on. 
+Omnivorous heterotrophs are able to consume at multiple levels. 
+Finally, there are decomposers that feed on the waste products or dead bodies of organisms.
+On average, the total amount of energy incorporated into the biomass of a trophic level per unit of time is about one-tenth of the energy of the trophic level that it consumes. 
+Waste and dead material used by decomposers as well as heat lost from metabolism make up the other ninety percent of energy that is not consumed by the next trophic level.
+In the global ecosystem (or biosphere), matter exist as different interacting compartments, which can be biotic or abiotic as well as accessible or inaccessible, depending on their forms and locations.
+[264]For example, matter from terrestrial autotrophs are both biotic and accessible to other organisms whereas the matter in rocks and minerals are abiotic and inaccessible. 
+A biogeochemical cycle is a pathway by which specific elements of matter are turned over or moved through the biotic (biosphere) and the abiotic (lithosphere, atmosphere, and hydrosphere) compartments of Earth. 
+There are biogeochemical cycles for nitrogen, carbon, and water. 
+In some cycles there are reservoirs where a substance remains or is sequestered for a long period of time. 
+Climate change includes both global warming driven by human-induced emissions of greenhouse gases and the resulting large-scale shifts in weather patterns. 
+Though there have been previous periods of climatic change, since the mid-20th century humans have had an unprecedented impact on Earth's climate system and caused change on a global scale.
+[265]The largest driver of warming is the emission of greenhouse gases, of which more than 90% are carbon dioxide and methane.
+[266]Fossil fuel burning (coal, oil, and natural gas) for energy consumption is the main source of these emissions, with additional contributions from agriculture, deforestation, and manufacturing.
+[267]Temperature rise is accelerated or tempered by climate feedbacks, such as loss of sunlight-reflecting snow and ice cover, increased water vapor (a greenhouse gas itself), and changes to land and ocean carbon sinks. 
+Conservation biology is the study of the conservation of Earth's biodiversity with the aim of protecting species, their habitats, and ecosystems from excessive rates of extinction and the erosion of biotic interactions.
+[268][269][270]It is concerned with factors that influence the maintenance, loss, and restoration of biodiversity and the science of sustaining evolutionary processes that engender genetic, population, species, and ecosystem diversity.
+[271][272][273][274]The concern stems from estimates suggesting that up to 50% of all species on the planet will disappear within the next 50 years,[275] which has contributed to poverty, starvation, and will reset the course of evolution on this planet.
+[276][277]Biodiversity affects the functioning of ecosystems, which provide a variety of services upon which people depend. 
+Conservation biologists research and educate on the trends of biodiversity loss, species extinctions, and the negative effect these are having on our capabilities to sustain the well-being of human society. 
+Organizations and citizens are responding to the current biodiversity crisis through conservation action plans that direct research, monitoring, and education programs that engage concerns at local through global scales.
+Journal links 
