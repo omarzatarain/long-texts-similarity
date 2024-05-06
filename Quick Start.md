@@ -21,4 +21,8 @@ The method is implemented on several language models, based on the features  of 
 # Preprocessing of texts 
 Prior the assessment of similarity  the documents are splitted either in sentences or chunks with fixed size
 
-# Applying the 
+# Comparison of a pairs of texts
+
+# Systematic Comparison
+
+# 
