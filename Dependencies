@@ -1,0 +1,10 @@
+The different implementations of the method  has the following dependencies:
+1.- Sentence Transformers
+
+2.- Longformer
+
+
+3.- BigBird
+
+
+4.- GPT2 
