@@ -74,9 +74,10 @@ The method is implemented on several language models, based on the features  of 
 
   
   ## 2.3.- Preprocessing of texts in chunks of fixed size
+  
 
-# Comparison of a pairs of texts
+# 3.- Comparison of a pairs of texts
 
-# Systematic Comparison
+# 4.- Systematic Comparison
 
 # 
