@@ -1,4 +1,4 @@
-# Installation of the Method versions 
+# Installation of the  Models tested with the Method for Long Text Similarity
 The method is implemented on several language models, based on the features  of each model, the method can be customized for using  GPU or CPU only processuing. Currently the  method  tested with the following  language models:
 1.- Sentence Transformers
 2.- LongFormer
