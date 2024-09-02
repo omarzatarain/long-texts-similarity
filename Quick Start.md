@@ -1,4 +1,4 @@
-# Installation of the  Models tested with the Method for Long Text Similarity
+# 1- Installation of the  Models tested with the Method for Long Text Similarity
 The method is implemented on several language models, based on the features  of each model, the method can be customized for using  GPU or CPU only processuing. Currently the  method  tested with the following  language models:
 1.- Sentence Transformers
 2.- LongFormer
@@ -6,11 +6,11 @@ The method is implemented on several language models, based on the features  of 
 4.- BART
 5.- GPT2
 
-## 1.- Implementation on Sentence Transformers 
+## 1.1- Implementation on Sentence Transformers 
 ### Dependencies
 
 
-## 2.- Implementation on LongFormer  
+## 1.2.- Implementation on LongFormer  
  Implementation of the method:  LongFormerTest.py 
  Python Version 3.10.11  with the following package dependencies installed
 ### Dependencies
@@ -28,12 +28,12 @@ The method is implemented on several language models, based on the features  of 
  * math
  * os
 
-## 3.- Implementation on BigBird
+## 1.3.- Implementation on BigBird
  Implementation of the method:  TestBigBird.py 
  Python Version 3.10.11  with the following package dependencies installed
 ### Dependencies
 
-## 4.- Implementation on BART
+## 1.4.- Implementation on BART
  Implementation of the method:  BART.py 
  Python Version 3.10.11  with the following package dependencies installed
 ### Dependencies
@@ -49,7 +49,7 @@ The method is implemented on several language models, based on the features  of 
 * math
 * os
 
-## 5.- Implementation on GPT2
+## 1.5.- Implementation on GPT2
  Implementation of the method: GPT2-Test.py 
  Python Version 3.10.11  with the following package dependencies installed
 ### Dependencies
@@ -65,9 +65,15 @@ The method is implemented on several language models, based on the features  of 
 * math
 * spacy
 * torch
+
+  # 2.- Dataset and preprocessed versions
+  ## 2.1.- Dataset
   
-# Preprocessing of texts 
-Prior the assessment of similarity  the documents are splitted either in sentences or chunks with fixed size
+  ## 2.2- Preprocessing of texts  in sentences
+   Prior the assessment of similarity  the documents are splitted either in sentences or chunks with fixed size
+
+  
+  ## 2.3.- Preprocessing of texts in chunks of fixed size
 
 # Comparison of a pairs of texts
 
