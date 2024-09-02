@@ -10,6 +10,21 @@ The method is implemented on several language models, based on the features  of 
 
 
 ## Implementation on LongFormer  
+  Python Version 3.10.11 
+### Dependencies
+ * transformers
+ * LongformerModel
+ * LongformerTokenizer
+ * LongformerConfig
+ * numpy as np
+ * torch
+ * spacy
+ * pandas as pd
+ * json
+ * math
+ * os
+
+## Implementation on BART
 ### Dependencies
 
 ## Implementation on BigBird
