@@ -11,26 +11,39 @@ The method is implemented on several language models, based on the features  of 
 
 
 ## 2.- Implementation on LongFormer  
-  Python Version 3.10.11 
+ Implementation of the method:  LongFormerTest.py 
+ Python Version 3.10.11  with the following package dependencies installed
 ### Dependencies
  * transformers
  * LongformerModel
  * LongformerTokenizer
  * LongformerConfig
- * numpy as np
+ * numpy 
  * torch
  * spacy
- * pandas as pd
+ * pandas
  * json
  * math
  * os
 
 ## 3.- Implementation on BigBird
+ Implementation of the method:  TestBigBird.py 
+ Python Version 3.10.11  with the following package dependencies installed
 ### Dependencies
 
 ## 4.- Implementation on BART
+ Implementation of the method:  BART.py 
+ Python Version 3.10.11  with the following package dependencies installed
 ### Dependencies
-
+* transformers
+* BartTokenizer
+* numpy 
+* torch
+* spacy
+* pandas 
+* json
+* math
+* os
 
 ## 5.- Implementation on GPT2
 ### Dependencies
