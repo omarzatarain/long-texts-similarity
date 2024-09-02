@@ -18,7 +18,9 @@ The method is implemented on several language models, based on the features  of 
  * LongformerModel
  * LongformerTokenizer
  * LongformerConfig
- * numpy 
+ * numpy
+ * numpy.linalg
+ * norm
  * torch
  * spacy
  * pandas
@@ -37,7 +39,9 @@ The method is implemented on several language models, based on the features  of 
 ### Dependencies
 * transformers
 * BartTokenizer
-* numpy 
+* numpy
+* numpy.linalg
+* norm 
 * torch
 * spacy
 * pandas 
@@ -46,8 +50,22 @@ The method is implemented on several language models, based on the features  of 
 * os
 
 ## 5.- Implementation on GPT2
+ Implementation of the method: GPT2-Test.py 
+ Python Version 3.10.11  with the following package dependencies installed
 ### Dependencies
-
+* transformers 
+* GPT2Tokenizer
+* GPT2Model
+* numpy 
+* numpy.linalg
+* norm
+* os
+* pandas 
+* json
+* math
+* spacy
+* torch
+  
 # Preprocessing of texts 
 Prior the assessment of similarity  the documents are splitted either in sentences or chunks with fixed size
 
