@@ -3,13 +3,14 @@ The method is implemented on several language models, based on the features  of 
 1.- Sentence Transformers
 2.- LongFormer
 3.- BigBird
-4.- GPT2
+4.- BART
+5.- GPT2
 
-## Implementation on Sentence Transformers 
+## 1.- Implementation on Sentence Transformers 
 ### Dependencies
 
 
-## Implementation on LongFormer  
+## 2.- Implementation on LongFormer  
   Python Version 3.10.11 
 ### Dependencies
  * transformers
@@ -24,11 +25,12 @@ The method is implemented on several language models, based on the features  of 
  * math
  * os
 
+## Implementation on BigBird
+### Dependencies
+
 ## Implementation on BART
 ### Dependencies
 
-## Implementation on BigBird
-### Dependencies
 
 ## Implementation on GPT2
 ### Dependencies
