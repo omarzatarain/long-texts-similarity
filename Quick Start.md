@@ -25,14 +25,14 @@ The method is implemented on several language models, based on the features  of 
  * math
  * os
 
-## Implementation on BigBird
+## 3.- Implementation on BigBird
 ### Dependencies
 
-## Implementation on BART
+## 4.- Implementation on BART
 ### Dependencies
 
 
-## Implementation on GPT2
+## 5.- Implementation on GPT2
 ### Dependencies
 
 # Preprocessing of texts 
