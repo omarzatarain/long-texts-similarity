@@ -10,6 +10,7 @@ This repository consists of the following resources:
      * Longformer
      * BigBird
      * GPT2
+     * BART
 * A dataset of random-size texts for semantic similarity created for and aided by the proposed method.
 * Results produced by the method on several models and the proposed dataset.
   
