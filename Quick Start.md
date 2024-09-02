@@ -70,7 +70,7 @@ The method is implemented on several language models, based on the features  of 
   ## 2.1.- Dataset
   
   ## 2.2- Preprocessing of texts  in sentences
-   Prior the assessment of similarity  the documents are splitted either in sentences or chunks with fixed size
+   The dataset is preprocessed by sentences for use with sentence transformers  Sentences
 
   
   ## 2.3.- Preprocessing of texts in chunks of fixed size
