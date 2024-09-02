@@ -68,6 +68,7 @@ The method is implemented on several language models, based on the features  of 
 
   # 2.- Dataset and preprocessed versions
   ## 2.1.- Dataset
+  The oroginal dataset of documents includes 72 samples extracted from Wikipedia, the folder DATASET contains a copy in text format. The names of the samples  are enlisted in the file DatasetListfile.txt
   
   ## 2.2- Preprocessing of texts  in sentences
    The dataset is preprocessed by sentences for use with sentence transformers  Sentences
