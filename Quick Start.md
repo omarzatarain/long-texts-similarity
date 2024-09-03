@@ -116,7 +116,38 @@ print(data)
 # 5.- Assessment against the Gold Standard 
  The assessment of the results of each model against the gold standard 
 
-## 5.1.- Sentence Transformers
+## 5.1.- Sentence Transformers:  Python_LongTextsSimilarity.py
+##APPLY ANALYSIS
+
+folder = 'RESULTS_all-MiniLM-L6-v2'
+
+SystematicPairReClassification('DatasetListfile.txt' ,folder, model,  nlp, a,b,c,d,alpha, beta, gamma, delta)
+
+MyDict = GetAnalysis('DatasetListfile.txt', folder)
+
+print(MyDict)
+
+#results = readResultsJson('GlobalResults.json', folder )
+
+#ResultsMatrix = results.get("Matrix")
+
+print(ResultsMatrix)
+
+filename = "Dataset 72 Docs Gold-Standard.xlsx"
+
+path = os.getcwd()
+
+sheet = "Hoja2"
+
+goldstd = importExcelFile(filename, path, sheet)
+
+goldstdmatrix = pd.read_csv('C:\RESEARCH PROJECTS\MIXED_ARCHITECTURE\Dataset 72 Docs Gold-Standard.csv', header=0)
+
+print(goldstdmatrix.iloc[0][1])
+
+CompMatrix = CompareGold_STD(ResultsMatrix, goldstdmatrix, folder)
+
+
 ## 5.2.- LongFormer
 ## 5.3.- BigBird
 ## 5.4.- BART
