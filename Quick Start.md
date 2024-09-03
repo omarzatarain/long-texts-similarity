@@ -93,12 +93,19 @@ The method is implemented on several language models, based on the features  of 
 ##themodel = 'sentence-transformers/average_word_embeddings_glove.6B.300d'
 
 file1 = '2022 Russian invasion of Ukraine.txt'
+
 file2 = '2022 Russian invasion of Ukraine.txt'
+
 Pairdata = DATASET_AttentionOnSentences(file1, file2 , 0.0, themodel, nlp)
+
 SentPairs = selectRepresentativePairs(Pairdata)
+
 saveResults(Pairdata, SentPairs)
+
 data = readResults('Sent_'+ file1 + "_"+ file2 +'.json')
+
 print(data)
+
 
 # 4.- Systematic Comparison
 
