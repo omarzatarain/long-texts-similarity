@@ -7,7 +7,7 @@ The method is implemented on several language models, based on the features  of 
 5.- GPT2
 
 ## 1.1- Implementation on Sentence Transformers 
-
+ Implementation of the method: Python_LongTextsSimilarity.py
 ### Dependencies
 
 
@@ -79,6 +79,23 @@ The method is implemented on several language models, based on the features  of 
   
 
 # 3.- Comparison of a pairs of texts
+
+# EXAMPLE OF USING A SINGLE COMPARISON USING  SENTENCE TRANSFORMER: Python_LongTextsSimilarity.py
+
+ #CHOOSE ONE OFTHE MODEL
+ 
+#themodel = 'all-MiniLM-L6-v2'
+#themodel = 'all-MiniLM-L12-v2'
+#themodel = 'all-mpnet-base-v2'
+##themodel = 'sentence-transformers/average_word_embeddings_glove.6B.300d'
+
+file1 = '2022 Russian invasion of Ukraine.txt'
+file2 = '2022 Russian invasion of Ukraine.txt'
+Pairdata = DATASET_AttentionOnSentences(file1, file2 , 0.0, themodel, nlp)
+SentPairs = selectRepresentativePairs(Pairdata)
+saveResults(Pairdata, SentPairs)
+data = readResults('Sent_'+ file1 + "_"+ file2 +'.json')
+print(data)
 
 # 4.- Systematic Comparison
 
