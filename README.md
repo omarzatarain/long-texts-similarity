@@ -11,7 +11,7 @@ This repository consists of the following resources:
      * BigBird
      * GPT2
      * BART
-* A dataset of random-size texts for semantic similarity created for and aided by the proposed method.
+* A dataset of random-size texts for semantic similarity created for and aided by the proposed method. The dataset contains 72 documents extracted from Wikipedia.
 * Results produced by the method on several models and the proposed dataset.
   
-The sentence-transformer models are implemented in a python file, The implementations using Longformer, BigBird and GPT2 have separated python files. Please install each model before running each implementation method.
+The sentence-transformer models are implemented in a python file, The implementations using Longformer, BigBird and GPT2 have separated python files. Please install each model before running each implementation of the method.
