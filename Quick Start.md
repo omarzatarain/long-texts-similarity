@@ -82,7 +82,7 @@ The method is implemented on several language models, based on the features  of 
 
 # EXAMPLE OF USING A SINGLE COMPARISON USING  SENTENCE TRANSFORMER: Python_LongTextsSimilarity.py
 
- #CHOOSE ONE OFTHE MODEL
+ #CHOOSE ONE OF THE MODELS
  
 #themodel = 'all-MiniLM-L6-v2'
 
