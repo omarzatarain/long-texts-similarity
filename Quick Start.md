@@ -117,7 +117,7 @@ print(data)
  The assessment of the results of each model against the gold standard 
 
 ## 5.1.- Sentence Transformers:  Python_LongTextsSimilarity.py
-##APPLY ANALYSIS
+##APPLY ANALYSIS, The folder can be set to other sentence models results
 
 folder = 'RESULTS_all-MiniLM-L6-v2'
 
