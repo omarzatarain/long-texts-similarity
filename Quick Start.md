@@ -111,7 +111,11 @@ print(data)
 
  The systematic comparison of the pairs for each model requires  different setups due to specific features of each model
  
-# 
+## 4.1.- Sentence Transformers
+## 4.2.- LongFormer
+## 4.3.- BigBird
+## 4.4.- BART
+## 4.5.- GPT2
 
 # 5.- Assessment against the Gold Standard 
  The assessment of the results of each model against the gold standard  in the file "Dataset 72 Docs Gold-Standard.csv"
