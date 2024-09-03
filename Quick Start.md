@@ -114,7 +114,7 @@ print(data)
 # 
 
 # 5.- Assessment against the Gold Standard 
- The assessment of the results of each model against the gold standard 
+ The assessment of the results of each model against the gold standard Dataset 72 Docs Gold-Standard.csv
 
 ## 5.1.- Sentence Transformers:  Python_LongTextsSimilarity.py
 ##APPLY ANALYSIS, The folder can be set to other sentence models results
