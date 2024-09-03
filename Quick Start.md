@@ -80,7 +80,7 @@ The method is implemented on several language models, based on the features  of 
 
 # 3.- Comparison of a pairs of texts
 
-# EXAMPLE OF USING A SINGLE COMPARISON USING  SENTENCE TRANSFORMER: Python_LongTextsSimilarity.py
+# 3.1.- EXAMPLE OF USING A SINGLE COMPARISON USING  SENTENCE TRANSFORMER: Python_LongTextsSimilarity.py
 
  #CHOOSE ONE OF THE MODELS
  
