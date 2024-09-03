@@ -85,8 +85,11 @@ The method is implemented on several language models, based on the features  of 
  #CHOOSE ONE OFTHE MODEL
  
 #themodel = 'all-MiniLM-L6-v2'
+
 #themodel = 'all-MiniLM-L12-v2'
+
 #themodel = 'all-mpnet-base-v2'
+
 ##themodel = 'sentence-transformers/average_word_embeddings_glove.6B.300d'
 
 file1 = '2022 Russian invasion of Ukraine.txt'
