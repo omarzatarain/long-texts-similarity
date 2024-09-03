@@ -109,4 +109,9 @@ print(data)
 
 # 4.- Systematic Comparison
 
+ The systematic comparison of the pairs for each model requires  different setups due to specific features of each model
+ 
 # 
+
+# 5.- Assessment against the Gold Standard 
+ The assessment of the results of each model against the gold standard 
