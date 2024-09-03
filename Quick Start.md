@@ -115,3 +115,9 @@ print(data)
 
 # 5.- Assessment against the Gold Standard 
  The assessment of the results of each model against the gold standard 
+
+## 5.1.- Sentence Transformers
+## 5.2.- LongFormer
+## 5.3.- BigBird
+## 5.4.- BART
+## 5.5.- GPT2
