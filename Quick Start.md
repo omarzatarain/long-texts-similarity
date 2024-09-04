@@ -125,6 +125,7 @@ DATASET_AttentionOnSentences('2022 Russian invasion of Ukraine Brittanica.txt', 
 
 
 ## 4.3.- BigBird
+
 nlp= setNLP()
 
 chunksize = 16
@@ -134,7 +135,19 @@ DATASET_AttentionOnSentencesBigBird('2022 Russian invasion of Ukraine Brittanica
 #DATASET_AttentionOnChunks('2022 Russian invasion of Ukraine Brittanica.txt', '2022 Russian invasion of Ukraine.txt', 0.3, tokenizer, nlp, chunksize)
 
 ## 4.4.- BART
+
+nlp= setNLP()
+
+chunksize = 16 #16
+
+tokenizer = BartTokenizer.from_pretrained("facebook/bart-base")
+
+#DATASET_AttentionOnChunks('2022 Russian invasion of Ukraine Brittanica.txt', '2022 Russian invasion of Ukraine Brittanica.txt', 0.3, tokenizer, nlp, chunksize)
+
+DATASET_AttentionOnSentences('2022 Russian invasion of Ukraine Brittanica.txt', '2022 Russian invasion of Ukraine Brittanica.txt', 0.3, tokenizer, nlp)
+
 ## 4.5.- GPT2
+
 tokenizer = GPT2Tokenizer.from_pretrained('gpt2')
 
 nlp= setNLP()
