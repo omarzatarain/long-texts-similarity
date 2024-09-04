@@ -114,6 +114,14 @@ print(data)
 ## 4.1.- Sentence Transformers
 ## 4.2.- LongFormer
 ## 4.3.- BigBird
+nlp= setNLP()
+
+chunksize = 16
+
+DATASET_AttentionOnSentencesBigBird('2022 Russian invasion of Ukraine Brittanica.txt', '2022 Russian invasion of Ukraine.txt', 0.3, tokenizer, nlp)
+
+#DATASET_AttentionOnChunks('2022 Russian invasion of Ukraine Brittanica.txt', '2022 Russian invasion of Ukraine.txt', 0.3, tokenizer, nlp, chunksize)
+
 ## 4.4.- BART
 ## 4.5.- GPT2
 tokenizer = GPT2Tokenizer.from_pretrained('gpt2')
