@@ -80,9 +80,9 @@ The method is implemented on several language models, based on the features  of 
 
 # 3.- Comparison of a pairs of texts
 
-# 3.1.- EXAMPLE OF USING A SINGLE COMPARISON USING  SENTENCE TRANSFORMER: Python_LongTextsSimilarity.py
+# 3.1.-Sentence Transformers: Python_LongTextsSimilarity.py
 
- #CHOOSE ONE OF THE MODELS
+#CHOOSE ONE OF THE MODELS
  
 #themodel = 'all-MiniLM-L6-v2'
 
@@ -106,13 +106,7 @@ data = readResults('Sent_'+ file1 + "_"+ file2 +'.json')
 
 print(data)
 
-
-# 4.- Systematic Comparison
-
- The systematic comparison of the pairs for each model requires  different setups due to specific features of each model
- 
-## 4.1.- Sentence Transformers
-## 4.2.- LongFormer
+## 3.2.- LongFormer
 
 nlp = setNLP()
 chunksize = 1024
@@ -124,7 +118,7 @@ tokenizer = getLongFormerTokenizer()
 DATASET_AttentionOnSentences('2022 Russian invasion of Ukraine Brittanica.txt', '2022 Russian invasion of Ukraine Brittanica.txt', 0.3, tokenizer, nlp)
 
 
-## 4.3.- BigBird
+## 3.3.- BigBird
 
 nlp= setNLP()
 
@@ -134,7 +128,7 @@ DATASET_AttentionOnSentencesBigBird('2022 Russian invasion of Ukraine Brittanica
 
 #DATASET_AttentionOnChunks('2022 Russian invasion of Ukraine Brittanica.txt', '2022 Russian invasion of Ukraine.txt', 0.3, tokenizer, nlp, chunksize)
 
-## 4.4.- BART
+## 3.4.- BART
 
 nlp= setNLP()
 
@@ -146,7 +140,7 @@ tokenizer = BartTokenizer.from_pretrained("facebook/bart-base")
 
 DATASET_AttentionOnSentences('2022 Russian invasion of Ukraine Brittanica.txt', '2022 Russian invasion of Ukraine Brittanica.txt', 0.3, tokenizer, nlp)
 
-## 4.5.- GPT2
+## 3.5.- GPT2
 
 tokenizer = GPT2Tokenizer.from_pretrained('gpt2')
 
@@ -157,6 +151,28 @@ DATASET_AttentionOnSentencesGPT2('2022 Russian invasion of Ukraine Brittanica.tx
 #chunksize = 16
 
 #DATASET_AttentionOnChunks('2022 Russian invasion of Ukraine Brittanica.txt', '2022 Russian invasion of Ukraine.txt', 0.3, tokenizer, nlp, chunksize)
+
+
+# 4.- Systematic Comparison
+
+ The systematic comparison of the pairs for each model requires  different setups due to specific features of each model
+ 
+## 4.1.- Sentence Transformers
+
+
+## 4.2.- LongFormer
+
+
+
+## 4.3.- BigBird
+
+
+
+## 4.4.- BART
+
+
+## 4.5.- GPT2
+
 
 # 5.- Assessment against the Gold Standard 
  The assessment of the results of each model against the gold standard  in the file "Dataset 72 Docs Gold-Standard.csv"
