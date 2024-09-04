@@ -160,37 +160,59 @@ DATASET_AttentionOnSentencesGPT2('2022 Russian invasion of Ukraine Brittanica.tx
 ## 4.1.- Sentence Transformers
 
 nlp = setNLP()
+
 ##CHOOSE THE MODEL
+
 themodel = 'all-MiniLM-L6-v2'
+
 #themodel = 'all-MiniLM-L12-v2'
+
 #themodel = 'all-mpnet-base-v2'
+
 #themodel = 'sentence-transformers/average_word_embeddings_glove.6B.300d'
 
 model = setModel(themodel)
+
 #CREATION OS SENTENCES VERSIONS
+
 fileSet= 'DatasetListfile.txt'
+
 #preprocessDataset(fileSet, nlp)
 
 #PARAMETERS FOR CLASSIFICATION
 
 #BASELINE
-#b = 0.2; 
-#c = 0.2; 
-#alpha = 0.5# 0.68;
-#beta = 0.6 #0.78;
-#gamma = 0.8 # 0.82;
-#delta = 0.9 #0.92;
+
+#b = 0.2 
+
+#c = 0.2 
+
+#alpha = 0.5
+
+#beta = 0.6 
+
+#gamma = 0.8
+
+#delta = 0.9 
 
 #TUNED
-b = 0.1; 
+
+b = 0.1;
+
 c = 0.1; 
-alpha = 0.75# 0.68;
-beta = 0.77 #0.78;
-gamma = 0.79 # 0.82;
-delta = 0.85 #0.92;
+
+alpha = 0.75
+
+beta = 0.77 
+
+gamma = 0.79 
+
+delta = 0.85 
 
 #SELF COMPARISON
+
 #SystematicPairClassification('DatasetListfile.txt', model,  nlp, a,b,c,d,alpha, beta, gamma, delta)
+
 SystematicSelfClassification('DatasetListfile.txt', model,  nlp, a,b,c,d,alpha, beta, gamma, delta)
 
 ## 4.2.- LongFormer
