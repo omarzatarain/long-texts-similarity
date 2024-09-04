@@ -181,7 +181,7 @@ fileSet= 'DatasetListfile.txt'
 #gamma = 0.8 # 0.82;
 #delta = 0.9 #0.92;
 
-# TUNED
+#TUNED
 b = 0.1; 
 c = 0.1; 
 alpha = 0.75# 0.68;
@@ -189,25 +189,9 @@ beta = 0.77 #0.78;
 gamma = 0.79 # 0.82;
 delta = 0.85 #0.92;
 
-#alpha = 0.25;
-#beta = 0.3;
-#gamma = 0.6;
-#delta =0.7;
-
 #SELF COMPARISON
 #SystematicPairClassification('DatasetListfile.txt', model,  nlp, a,b,c,d,alpha, beta, gamma, delta)
 SystematicSelfClassification('DatasetListfile.txt', model,  nlp, a,b,c,d,alpha, beta, gamma, delta)
-
-
-
-
-
-## APPLY A SYSTEMATIC  CLASSIFICATION -- CREATE THE FOLDER FIRST!!
-#folder = 'RESULTS_all-MiniLM-L6-v2'
-#folder = 'RESULTS_all-MiniLM-L12-v2'
-#folder = 'RESULTS_all-mpnet-base-v2'
-#folder = 'RESULTS_glove.300D'
-
 
 ## 4.2.- LongFormer
 
