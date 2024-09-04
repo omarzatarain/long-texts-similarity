@@ -156,3 +156,14 @@ CompMatrix = CompareGold_STD(ResultsMatrix, goldstdmatrix, folder)
 ## 5.3.- BigBird
 ## 5.4.- BART
 ## 5.5.- GPT2
+
+tokenizer = GPT2Tokenizer.from_pretrained('gpt2')
+
+nlp= setNLP()
+
+DATASET_AttentionOnSentencesGPT2('2022 Russian invasion of Ukraine Brittanica.txt', '2022 Russian invasion of Ukraine.txt', 0.3, tokenizer, nlp)
+
+#chunksize = 16
+
+#DATASET_AttentionOnChunks('2022 Russian invasion of Ukraine Brittanica.txt', '2022 Russian invasion of Ukraine.txt', 0.3, tokenizer, nlp, chunksize)
+
