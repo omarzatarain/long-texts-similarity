@@ -269,7 +269,7 @@ CompMatrix = CompareGold_STD(ResultsMatrix, goldstdmatrix, folder)
 ## 5.4.- BART
 ## 5.5.- GPT2
 
-# Tuning
+# 6.- Tuning
 ##FINE TUNNING
 baseline = { "alpha": alpha, "b": b, "beta": beta,"c": c, "gamma": gamma, "delta": delta}
 #folder = 'RESULTS_all-MiniLM-L6-v2'
