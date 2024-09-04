@@ -159,6 +159,55 @@ DATASET_AttentionOnSentencesGPT2('2022 Russian invasion of Ukraine Brittanica.tx
  
 ## 4.1.- Sentence Transformers
 
+nlp = setNLP()
+##CHOOSE THE MODEL
+themodel = 'all-MiniLM-L6-v2'
+#themodel = 'all-MiniLM-L12-v2'
+#themodel = 'all-mpnet-base-v2'
+#themodel = 'sentence-transformers/average_word_embeddings_glove.6B.300d'
+
+model = setModel(themodel)
+#CREATION OS SENTENCES VERSIONS
+fileSet= 'DatasetListfile.txt'
+#preprocessDataset(fileSet, nlp)
+
+#PARAMETERS FOR CLASSIFICATION
+
+#BASELINE
+#b = 0.2; 
+#c = 0.2; 
+#alpha = 0.5# 0.68;
+#beta = 0.6 #0.78;
+#gamma = 0.8 # 0.82;
+#delta = 0.9 #0.92;
+
+# TUNED
+b = 0.1; 
+c = 0.1; 
+alpha = 0.75# 0.68;
+beta = 0.77 #0.78;
+gamma = 0.79 # 0.82;
+delta = 0.85 #0.92;
+
+#alpha = 0.25;
+#beta = 0.3;
+#gamma = 0.6;
+#delta =0.7;
+
+#SELF COMPARISON
+#SystematicPairClassification('DatasetListfile.txt', model,  nlp, a,b,c,d,alpha, beta, gamma, delta)
+SystematicSelfClassification('DatasetListfile.txt', model,  nlp, a,b,c,d,alpha, beta, gamma, delta)
+
+
+
+
+
+## APPLY A SYSTEMATIC  CLASSIFICATION -- CREATE THE FOLDER FIRST!!
+#folder = 'RESULTS_all-MiniLM-L6-v2'
+#folder = 'RESULTS_all-MiniLM-L12-v2'
+#folder = 'RESULTS_all-mpnet-base-v2'
+#folder = 'RESULTS_glove.300D'
+
 
 ## 4.2.- LongFormer
 
@@ -213,6 +262,30 @@ CompMatrix = CompareGold_STD(ResultsMatrix, goldstdmatrix, folder)
 ## 5.3.- BigBird
 ## 5.4.- BART
 ## 5.5.- GPT2
+
+# Tuning
+##FINE TUNNING
+baseline = { "alpha": alpha, "b": b, "beta": beta,"c": c, "gamma": gamma, "delta": delta}
+#folder = 'RESULTS_all-MiniLM-L6-v2'
+#folder = 'RESULTS_all-MiniLM-L12-v2'
+#folder = 'RESULTS_all-mpnet-base-v2'
+#folder = 'RESULTS_glove.300D'
+folder = 'RESULTS_CURRENT'
+listfile = 'DatasetListfile.txt'
+MyDict = GetAnalysis(listfile, folder)
+results = readResultsJson('GlobalResults.json', folder)
+ResultsMatrix = results.get("Matrix")
+print(ResultsMatrix)
+GSMatrix = pd.read_csv('C:\RESEARCH PROJECTS\MIXED_ARCHITECTURE\Dataset 72 Docs Gold-Standard.csv', header=0)
+print(GSMatrix.iloc[0][1])
+#AssesmentTuning(listfile, folder, baseline, GSMatrix, ResultsMatrix)
+
+#AutoTuning(listfile, folder, baseline, GSMatrix, ResultsMatrix)
+AutoAssessment(listfile, folder, baseline, GSMatrix, ResultsMatrix)
+
+#SELF COMPARISON SHUFFLED
+#SystematicSelfClassificationShuffled('DatasetListfile.txt', model,  nlp, a,b,c,d,alpha, beta, gamma, delta)
+#SystematicPairClassificationShuffled('DatasetListfile.txt', model,  nlp, a,b,c,d,alpha, beta, gamma, delta)
 
 
 
