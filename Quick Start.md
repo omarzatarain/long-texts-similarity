@@ -113,6 +113,17 @@ print(data)
  
 ## 4.1.- Sentence Transformers
 ## 4.2.- LongFormer
+
+nlp = setNLP()
+chunksize = 1024
+
+tokenizer = getLongFormerTokenizer()
+
+#DATASET_AttentionOnChunks('2022 Russian invasion of Ukraine Brittanica.txt', '2022 Russian invasion of Ukraine Brittanica.txt', 0.3, tokenizer, nlp, chunksize)
+
+DATASET_AttentionOnSentences('2022 Russian invasion of Ukraine Brittanica.txt', '2022 Russian invasion of Ukraine Brittanica.txt', 0.3, tokenizer, nlp)
+
+
 ## 4.3.- BigBird
 nlp= setNLP()
 
