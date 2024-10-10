@@ -305,10 +305,15 @@ CompMatrix = CompareGold_STD(ResultsMatrix, goldstdmatrix, folder)
 ## 5.2.- LongFormer
 
 nlp = setNLP()
+
 chunksize = 1024
+
 tokenizer = getLongFormerTokenizer()
+
 #DATASET_AttentionOnChunks('2022 Russian invasion of Ukraine Brittanica.txt', '2022 Russian invasion of Ukraine Brittanica.txt', 0.3, tokenizer, nlp, chunksize)
+
 DATASET_AttentionOnSentences('2022 Russian invasion of Ukraine Brittanica.txt', '2022 Russian invasion of Ukraine Brittanica.txt', 0.3, tokenizer, nlp)
+
 
 ## 5.3.- BigBird
 ## 5.4.- BART
