@@ -175,7 +175,7 @@ themodel = 'all-MiniLM-L6-v2'
 
 model = setModel(themodel)
 
-#CREATION OS SENTENCES VERSIONS
+CREATION OS SENTENCES VERSIONS
 
 fileSet= 'DatasetListfile.txt'
 
