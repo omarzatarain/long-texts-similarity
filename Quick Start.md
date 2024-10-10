@@ -258,8 +258,6 @@ delta = 0.85 #0.92;
 
 nlp = setNLP()
 
-# CREATION OF SENTENCES VERSIONS
-
 fileSet= 'DatasetListfile.txt'
 
 preprocessDataset(fileSet, nlp)
