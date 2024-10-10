@@ -244,7 +244,7 @@ delta = 0.85 #0.92;
 #SVO 
 nlp = setNLP()
 
-# CREATION OS SENTENCES VERSIONS
+# CREATION OF SENTENCES VERSIONS
 fileSet= 'DatasetListfile.txt'
 preprocessDataset(fileSet, nlp)
 
@@ -254,8 +254,7 @@ config = LongformerConfig.from_pretrained('allenai/longformer-base-4096')
 tokenizer = LongformerTokenizer.from_pretrained('allenai/longformer-base-4096')
 model = LongformerModel(config)
 model = model.cuda() 
-#input_ids = torch.tensor(tokenizer.encode("The woman called her friend", return_tensors="pt")).clone().detach()
-#print(input_ids)
+SystematicPairClassification(fileSet, tokenizer,  nlp, b,c,alpha, beta, gamma, delta)
 
 
 ## 4.3.- BigBird
