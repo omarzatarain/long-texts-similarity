@@ -219,6 +219,43 @@ SystematicSelfClassification('DatasetListfile.txt', model,  nlp, a,b,c,d,alpha, 
 
 ## 4.2.- LongFormer
 
+###### MAIN SECTION ##########################
+#        
+
+print("Torch version:",torch.__version__)
+
+print("Is CUDA enabled?",torch.cuda.is_available())
+#BASELINE
+#b = 0.2; 
+#c = 0.2; 
+#alpha = 0.5# 0.68;
+#beta = 0.6 #0.78;
+#gamma = 0.8 # 0.82;
+#delta = 0.9 #0.92;
+
+# TUNED
+b = 0.1; 
+c = 0.1; 
+alpha = 0.75# 0.68;
+beta = 0.77 #0.78;
+gamma = 0.79 # 0.82;
+delta = 0.85 #0.92;
+
+#SVO 
+nlp = setNLP()
+
+# CREATION OS SENTENCES VERSIONS
+fileSet= 'DatasetListfile.txt'
+preprocessDataset(fileSet, nlp)
+
+chunksize = 64 #16
+
+config = LongformerConfig.from_pretrained('allenai/longformer-base-4096')
+tokenizer = LongformerTokenizer.from_pretrained('allenai/longformer-base-4096')
+model = LongformerModel(config)
+model = model.cuda() 
+#input_ids = torch.tensor(tokenizer.encode("The woman called her friend", return_tensors="pt")).clone().detach()
+#print(input_ids)
 
 
 ## 4.3.- BigBird
