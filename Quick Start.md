@@ -303,6 +303,13 @@ CompMatrix = CompareGold_STD(ResultsMatrix, goldstdmatrix, folder)
 
 
 ## 5.2.- LongFormer
+
+nlp = setNLP()
+chunksize = 1024
+tokenizer = getLongFormerTokenizer()
+#DATASET_AttentionOnChunks('2022 Russian invasion of Ukraine Brittanica.txt', '2022 Russian invasion of Ukraine Brittanica.txt', 0.3, tokenizer, nlp, chunksize)
+DATASET_AttentionOnSentences('2022 Russian invasion of Ukraine Brittanica.txt', '2022 Russian invasion of Ukraine Brittanica.txt', 0.3, tokenizer, nlp)
+
 ## 5.3.- BigBird
 ## 5.4.- BART
 ## 5.5.- GPT2
@@ -326,10 +333,3 @@ print(GSMatrix.iloc[0][1])
 
 #AutoTuning(listfile, folder, baseline, GSMatrix, ResultsMatrix)
 AutoAssessment(listfile, folder, baseline, GSMatrix, ResultsMatrix)
-
-#SELF COMPARISON SHUFFLED
-#SystematicSelfClassificationShuffled('DatasetListfile.txt', model,  nlp, a,b,c,d,alpha, beta, gamma, delta)
-#SystematicPairClassificationShuffled('DatasetListfile.txt', model,  nlp, a,b,c,d,alpha, beta, gamma, delta)
-
-
-
