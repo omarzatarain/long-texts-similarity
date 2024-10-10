@@ -338,21 +338,31 @@ DATASET_AttentionOnSentences('2022 Russian invasion of Ukraine Brittanica.txt', 
 ## 5.5.- GPT2
 
 # 6.- Tuning
-##FINE TUNNING
-baseline = { "alpha": alpha, "b": b, "beta": beta,"c": c, "gamma": gamma, "delta": delta}
-#folder = 'RESULTS_all-MiniLM-L6-v2'
-#folder = 'RESULTS_all-MiniLM-L12-v2'
-#folder = 'RESULTS_all-mpnet-base-v2'
-#folder = 'RESULTS_glove.300D'
-folder = 'RESULTS_CURRENT'
-listfile = 'DatasetListfile.txt'
-MyDict = GetAnalysis(listfile, folder)
-results = readResultsJson('GlobalResults.json', folder)
-ResultsMatrix = results.get("Matrix")
-print(ResultsMatrix)
-GSMatrix = pd.read_csv('C:\RESEARCH PROJECTS\MIXED_ARCHITECTURE\Dataset 72 Docs Gold-Standard.csv', header=0)
-print(GSMatrix.iloc[0][1])
-#AssesmentTuning(listfile, folder, baseline, GSMatrix, ResultsMatrix)
 
-#AutoTuning(listfile, folder, baseline, GSMatrix, ResultsMatrix)
+##FINE TUNNING
+
+baseline = { "alpha": alpha, "b": b, "beta": beta,"c": c, "gamma": gamma, "delta": delta}
+
+#folder = 'RESULTS_all-MiniLM-L6-v2'
+
+#folder = 'RESULTS_all-MiniLM-L12-v2'
+
+#folder = 'RESULTS_all-mpnet-base-v2'
+
+#folder = 'RESULTS_glove.300D'
+
+folder = 'RESULTS_CURRENT'
+
+listfile = 'DatasetListfile.txt'
+
+MyDict = GetAnalysis(listfile, folder)
+
+results = readResultsJson('GlobalResults.json', folder)
+
+ResultsMatrix = results.get("Matrix")
+
+print(ResultsMatrix)
+
+GSMatrix = pd.read_csv('C:\RESEARCH PROJECTS\MIXED_ARCHITECTURE\Dataset 72 Docs Gold-Standard.csv', header=0)
+
 AutoAssessment(listfile, folder, baseline, GSMatrix, ResultsMatrix)
