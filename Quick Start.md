@@ -240,7 +240,7 @@ print("Is CUDA enabled?",torch.cuda.is_available())
 
 #delta = 0.9 
 
-# TUNED
+#TUNED
 
 b = 0.1; 
 
