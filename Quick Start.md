@@ -322,18 +322,12 @@ CompMatrix = CompareGold_STD(ResultsMatrix, goldstdmatrix, folder)
 
 ## 5.2.- LongFormer
 
-nlp = setNLP()
-
-chunksize = 1024
-
-tokenizer = getLongFormerTokenizer()
-
-#DATASET_AttentionOnChunks('2022 Russian invasion of Ukraine Brittanica.txt', '2022 Russian invasion of Ukraine Brittanica.txt', 0.3, tokenizer, nlp, chunksize)
-
-DATASET_AttentionOnSentences('2022 Russian invasion of Ukraine Brittanica.txt', '2022 Russian invasion of Ukraine Brittanica.txt', 0.3, tokenizer, nlp)
+Change the folder  and apply  steps   in 5.1 and using Python_LongTextsSimilarity.py file
+folder = 'RESULTS_LongFormer_1K'
 
 
 ## 5.3.- BigBird
+
 ## 5.4.- BART
 ## 5.5.- GPT2
 
