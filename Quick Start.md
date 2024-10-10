@@ -80,6 +80,8 @@ The method is implemented on several language models, based on the features  of 
 
 # 3.- Comparison of a pairs of texts
 
+The following subsections describe how to test a pair of sentences with each implementation on transformers and language models. 
+
 # 3.1.-Sentence Transformers: Python_LongTextsSimilarity.py
 
 #CHOOSE ONE OF THE MODELS
@@ -235,7 +237,7 @@ SystematicSelfClassification('DatasetListfile.txt', model,  nlp, a,b,c,d,alpha, 
 ## 5.1.- Sentence Transformers:  Python_LongTextsSimilarity.py
 ##APPLY ANALYSIS, The folder can be set to other sentence models results
 
-folder = 'RESULTS_all-MiniLM-L6-v2'
+folder = 'RESULTS_all-MiniLM-L6-v2'  # you can choose the results of other model
 
 SystematicPairReClassification('DatasetListfile.txt' ,folder, model,  nlp, a,b,c,d,alpha, beta, gamma, delta)
 
@@ -257,7 +259,7 @@ sheet = "Hoja2"
 
 goldstd = importExcelFile(filename, path, sheet)
 
-goldstdmatrix = pd.read_csv('C:\RESEARCH PROJECTS\MIXED_ARCHITECTURE\Dataset 72 Docs Gold-Standard.csv', header=0)
+goldstdmatrix = pd.read_csv('C:\RESEARCH PROJECTS\MIXED_ARCHITECTURE\Dataset 72 Docs Gold-Standard.csv', header=0)  # update this route to your current location
 
 print(goldstdmatrix.iloc[0][1])
 
