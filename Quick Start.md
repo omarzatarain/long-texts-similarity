@@ -323,13 +323,24 @@ CompMatrix = CompareGold_STD(ResultsMatrix, goldstdmatrix, folder)
 ## 5.2.- LongFormer
 
 Change the folder  and apply  steps   in 5.1 and using Python_LongTextsSimilarity.py file
+
 folder = 'RESULTS_LongFormer_1K'
 
 
 ## 5.3.- BigBird
+Change the folder  and apply  steps   in 5.1 and using Python_LongTextsSimilarity.py file
+
+folder = 'RESULTS_BigBird_1K'
 
 ## 5.4.- BART
+Change the folder  and apply  steps   in 5.1 and using Python_LongTextsSimilarity.py file
+
+folder = 'RESULTS_BART_1K'
+
 ## 5.5.- GPT2
+Change the folder  and apply  steps   in 5.1 and using Python_LongTextsSimilarity.py file
+
+folder = 'RESULTS_GPT_1K'
 
 # 6.- Tuning
 
