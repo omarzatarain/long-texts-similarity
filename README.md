@@ -4,6 +4,7 @@ This repository consists of the following resources:
 * A method for semantic similarity on long texts with random size. The method uses large language models (sentence-transformers). This method mitigates the issues of token capacity and low performance due to the positions of words in the context. See [Method Card](Method_Card.md) 
 * The method is implemented using the following models
      * sentence-transformers:
+       
             1.- all-MiniLM-L6-v2,
        
             2.- all-MiniLM-L12-v2
