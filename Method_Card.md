@@ -5,4 +5,4 @@ This blended  method for text similarity consists of an analytical  stategy that
 
 2.- Large language models: LongFormer, GPT2, BigBird and BART
 
-In order to  install the proposed method with each model  please refer to [Quick Start](Quick Start.md)
+In order to  install the proposed method with each model  please refer to [Quick Start](Quick_Start.md)
