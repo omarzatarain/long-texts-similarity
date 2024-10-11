@@ -10,6 +10,8 @@ This repository consists of the following resources:
             2.- all-MiniLM-L12-v2
        
             3.- all-mpnet-base-v2,
+
+            4.- glove.300D
        
      * Longformer
      * BigBird
