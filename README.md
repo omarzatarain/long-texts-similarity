@@ -5,8 +5,11 @@ This repository consists of the following resources:
 * The method is implemented using the following models
      * sentence-transformers:
             1.- all-MiniLM-L6-v2,
+       
             2.- all-MiniLM-L12-v2
+       
             3.- all-mpnet-base-v2,
+       
      * Longformer
      * BigBird
      * GPT2
