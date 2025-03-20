@@ -22,7 +22,6 @@ def setNLP():
     nlp = spacy.load("en_core_web_sm")
     return nlp
 
-
 def setModel(themodel):
     model = SentenceTransformer(themodel)
     return model
@@ -268,7 +267,6 @@ def SystematicPairReClassification(listfile,folder, b, c, alpha, beta, gamma, de
     with open(myfileClass, 'w') as convert_file: 
         convert_file.write(json.dumps(Dictionary)) 
 
-
 def computeSoundness( Deciles, m):
     spanning = 10
     i = 10
@@ -309,7 +307,6 @@ def computeSoundness( Deciles, m):
 
     return soundness
 
-
 def classifyPair(Pairdata,m, b,c,alpha, beta, gamma, delta):
 
 # put in zeros the deciles below the support 
@@ -347,7 +344,6 @@ def classifyPair(Pairdata,m, b,c,alpha, beta, gamma, delta):
     #print(rel_degree)  
     return data
 
-
 def getFile(filename, path, nlp):
     if path == "":
        path = os.getcwd() 
@@ -381,7 +377,6 @@ def getFile(filename, path, nlp):
     print("Sentences size = " + str(counter))       
     print(mylist)
     return mylist
-
 
 def preprocessDataset(fileSet, nlp):
     path= os.getcwd() + '/WORKSPACE/DATASET/'
@@ -559,7 +554,6 @@ def DATASET_AttentionOnSentences(file1, file2, threshold, model, nlp):
     
     return PairData
 
-
 def selectRepresentativePairs(PairData, Matrix):
    # print(PairData)
     Deciles = PairData.get("Deciles")
@@ -597,7 +591,6 @@ def selectRepresentativePairs(PairData, Matrix):
     # retrieve the array of indices 
     #print(SentPairs)   
     return  SentPairs
-
 
 def SystematicPairClassification(  listfile,folder, model,  nlp,b,c,alpha, beta, gamma, delta):
     Files = getFiles(listfile)
@@ -794,6 +787,47 @@ def GetConfusionMatrix(ResultsMatrix, Gold_STD, folder):
     
     return ConfusionMatrix
 
+# Function to obtain the performance in memory and time
+def GetBenchMarkPerformance(listfile,folder):
+    Files = getFiles(listfile)
+    lsize = len(Files)
+    print(lsize)    
+    print(Files)
+    # Matrix for saving 
+    Matrix = [['' for x in range(lsize)] for y in range(lsize)]
+    counter = 0
+    TotalTime = 0
+    mintime = 100000000
+    maxtime = 0
+    for i in range(0,lsize):
+        file1 = Files[i]
+        print(file1)
+        for k in range(i,lsize):
+            counter = counter +1
+            file2 =  Files[k]
+            print(file2)
+            myfile = os.getcwd()+ '/WORKSPACE/' + folder + '/Data_' + file1 +'_'+ file2 +'.json'
+            Pairdata =RetrieveClass(myfile)
+            pairTime = Pairdata.get("Time")
+            TotalTime = TotalTime + pairTime
+            if pairTime < mintime:
+                mintime = pairTime
+            if pairTime > maxtime:
+                maxtime = pairTime
+            
+    average =  TotalTime / counter   
+    print("PAIRS :", counter)
+    print("TOTALTIME :", TotalTime)    
+    print("AVERAGE :", average) 
+    print("MINTIME :", mintime)   
+    print("MAXTIME :", maxtime)   
+            
+    
+    Dictionary ={"Files": Files, "TotalTime": TotalTime, "Average": average, "MinTime": mintime, "MaxTime": maxtime, "Pairs": counter}
+    myfileClass = os.getcwd()+ '/WORKSPACE/'+ folder+ '/Benchmark_Results'+'.json'
+    myfileClass = myfileClass.replace("\\","/") 
+    with open(myfileClass, 'w') as convert_file: 
+        convert_file.write(json.dumps(Dictionary))
 
 
 
@@ -832,6 +866,15 @@ delta = 0.8                 # start 0.9
 #folder = 'RESULTS_all-MiniLM-L6-v2'
 # WORKING BASELINE
 #folder = 'RESULTS__all-MiniLM-L6-v2_2_2_5_6_8_9'
+
+##### BENCHMARK ########
+listfilebenchmark = 'DatasetListfile_Benchmark.txt'
+benchmarkfolder = 'RESULTS_IMPROVED'
+GetBenchMarkPerformance(listfilebenchmark,benchmarkfolder)
+
+
+
+### END BENCHMARK
 
 folder = 'RESULTS_IMPROVED'
 #folder = 'RESULTS_12'
